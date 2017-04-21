@@ -1,0 +1,1109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-01 00:42+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2 activity.py:8
+msgid "FoodForce2"
+msgstr ""
+
+#: chat.py:86
+msgid "ENTER : To show whole chat"
+msgstr ""
+
+#: chat.py:86 chat.py:266
+msgid "ESC : To skip chat"
+msgstr ""
+
+#: chat.py:266
+msgid "ENTER : To move to next set of chats"
+msgstr ""
+
+#: display_panel.py:100
+msgid "Indicators"
+msgstr ""
+
+#: display_panel.py:113
+msgid " Housing"
+msgstr ""
+
+#: display_panel.py:113
+msgid " Nutrition"
+msgstr ""
+
+#: display_panel.py:113
+msgid " Health"
+msgstr ""
+
+#: display_panel.py:113
+msgid " Education"
+msgstr ""
+
+#: display_panel.py:113
+msgid " Training"
+msgstr ""
+
+#: display_panel.py:196 gui_buttons.py:724
+msgid "Resources"
+msgstr ""
+
+#: display_panel.py:219
+msgid "Money -:"
+msgstr ""
+
+#: display_panel.py:220
+msgid "Time Elapsed -:"
+msgstr ""
+
+#: display_panel.py:220
+msgid "Level Just Started"
+msgstr ""
+
+#: display_panel.py:223
+msgid " Water"
+msgstr ""
+
+#: display_panel.py:223
+msgid " Building Materials"
+msgstr ""
+
+#: display_panel.py:223
+msgid " Tools"
+msgstr ""
+
+#: display_panel.py:223
+msgid " Medicines"
+msgstr ""
+
+#: display_panel.py:223
+msgid " Books"
+msgstr ""
+
+#: display_panel.py:230
+msgid " Rice"
+msgstr ""
+
+#: display_panel.py:230
+msgid " Fruit & Vegatables"
+msgstr ""
+
+#: display_panel.py:230
+msgid " Beans"
+msgstr ""
+
+#: display_panel.py:230
+msgid " Sugar"
+msgstr ""
+
+#: display_panel.py:230
+msgid " Salt"
+msgstr ""
+
+#: display_panel.py:230
+msgid " Oil"
+msgstr ""
+
+#: display_panel.py:256 display_panel.py:258
+msgid "Money -:   "
+msgstr ""
+
+#: display_panel.py:264
+msgid "Time Elapsed -:   "
+msgstr ""
+
+#: display_panel.py:264
+msgid "Years: "
+msgstr ""
+
+#: display_panel.py:264
+msgid "  Months: "
+msgstr ""
+
+#: display_panel.py:264
+msgid "  Days: "
+msgstr ""
+
+#: display_panel.py:307
+msgid "  Manpower Distribution"
+msgstr ""
+
+#: display_panel.py:327
+msgid " Total Population"
+msgstr ""
+
+#: display_panel.py:327
+msgid " Sheltered People"
+msgstr ""
+
+#: display_panel.py:327
+msgid " Educated People"
+msgstr ""
+
+#: display_panel.py:327
+msgid " Healthy People"
+msgstr ""
+
+#: display_panel.py:327
+msgid " People Fed"
+msgstr ""
+
+#: display_panel.py:327
+msgid " People Employed"
+msgstr ""
+
+#: display_panel.py:381
+msgid "Houses "
+msgstr ""
+
+#: display_panel.py:381
+msgid "Schools "
+msgstr ""
+
+#: display_panel.py:381
+msgid "Hospitals "
+msgstr ""
+
+#: display_panel.py:381
+msgid "Workshops "
+msgstr ""
+
+#: display_panel.py:381
+msgid "Farms "
+msgstr ""
+
+#: display_panel.py:381
+msgid "Wells "
+msgstr ""
+
+#: display_panel.py:382
+msgid "Number: "
+msgstr ""
+
+#: display_panel.py:388 display_panel.py:398 display_panel.py:408
+#: display_panel.py:409
+msgid " Level: "
+msgstr ""
+
+#: Foodforce2.py:88
+msgid "Message "
+msgstr ""
+
+#: Foodforce2.py:260
+msgid "Start New Game"
+msgstr ""
+
+#: Foodforce2.py:263
+msgid "Resume Game"
+msgstr ""
+
+#: Foodforce2.py:267
+msgid "Controls"
+msgstr ""
+
+#: Foodforce2.py:268
+msgid "Exit"
+msgstr ""
+
+#: Foodforce2.py:269
+msgid "Guide"
+msgstr ""
+
+#: Foodforce2.py:270
+msgid "About Us"
+msgstr ""
+
+#: Foodforce2.py:304
+msgid "     Guide"
+msgstr ""
+
+#: Foodforce2.py:317 Foodforce2.py:483
+msgid "  Skip  "
+msgstr ""
+
+#: Foodforce2.py:318
+msgid "  Next > "
+msgstr ""
+
+#: Foodforce2.py:319
+msgid "  < Prev  "
+msgstr ""
+
+#: Foodforce2.py:395
+msgid "     About Us "
+msgstr ""
+
+#: Foodforce2.py:410
+msgid "  Close  "
+msgstr ""
+
+#: Foodforce2.py:466
+msgid " FOODFORCE II : ESCAPING POVERTY  "
+msgstr ""
+
+#: Foodforce2.py:571
+msgid "     Controls "
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "  Setup Facility           :       s"
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "  Upgrade Facility       :       u "
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "Buy/Sell                    :       b"
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen up       :       up arrow "
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen down   :       down arrow"
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen left      :       left arrow"
+msgstr ""
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen right    :       right arrow "
+msgstr ""
+
+#: Foodforce2.py:584
+msgid "Setup Facility "
+msgstr ""
+
+#: Foodforce2.py:585 gui_buttons.py:536
+msgid "Upgrade Facility "
+msgstr ""
+
+#: Foodforce2.py:586
+msgid "Buy/Sell "
+msgstr ""
+
+#: Foodforce2.py:587
+msgid "Scroll Screen up "
+msgstr ""
+
+#: Foodforce2.py:588
+msgid "Scroll Screen down"
+msgstr ""
+
+#: Foodforce2.py:589
+msgid "Scroll Screen left "
+msgstr ""
+
+#: Foodforce2.py:590
+msgid "Scroll Screen right "
+msgstr ""
+
+#: Foodforce2.py:591
+msgid "Focus "
+msgstr ""
+
+#: Foodforce2.py:592
+msgid "De Focus "
+msgstr ""
+
+#: Foodforce2.py:608
+msgid "up arrow "
+msgstr ""
+
+#: Foodforce2.py:609
+msgid "down arrow "
+msgstr ""
+
+#: Foodforce2.py:610
+msgid "left arrrow "
+msgstr ""
+
+#: Foodforce2.py:611
+msgid "right arrow "
+msgstr ""
+
+#: Foodforce2.py:616
+msgid "  OK  "
+msgstr ""
+
+#: Foodforce2.py:753
+msgid "this will test localisation in the log"
+msgstr ""
+
+#: game_sharing.py:133
+msgid "The Resources have been traded"
+msgstr ""
+
+#: game_sharing.py:136
+msgid "The Resources have already been traded with someone"
+msgstr ""
+
+#: game_sharing.py:148 game_sharing.py:162
+msgid "The Resources have been traded with "
+msgstr ""
+
+#: game_sharing.py:360
+msgid "Trade "
+msgstr ""
+
+#: game_sharing.py:362
+msgid " wants to "
+msgstr ""
+
+#: game_sharing.py:362
+msgid " units of "
+msgstr ""
+
+#: game_sharing.py:370
+msgid " Accept "
+msgstr ""
+
+#: game_sharing.py:371
+msgid " Reject "
+msgstr ""
+
+#: gui_buttons.py:276
+msgid "Set up a facility for your village "
+msgstr ""
+
+#: gui_buttons.py:295
+msgid ""
+"What would you like to set up? Choose a facility from the list and press the "
+"Set Up button."
+msgstr ""
+
+#: gui_buttons.py:297
+msgid "Please select a Facility to see its status and Requirements"
+msgstr ""
+
+#: gui_buttons.py:316 gui_buttons.py:349 gui_buttons.py:565 gui_buttons.py:610
+msgid "House"
+msgstr ""
+
+#: gui_buttons.py:318 gui_buttons.py:353 gui_buttons.py:567 gui_buttons.py:613
+msgid "Hospital"
+msgstr ""
+
+#: gui_buttons.py:320 gui_buttons.py:361 gui_buttons.py:569 gui_buttons.py:619
+msgid "Workshop"
+msgstr ""
+
+#: gui_buttons.py:322 gui_buttons.py:357 gui_buttons.py:571 gui_buttons.py:616
+msgid "School"
+msgstr ""
+
+#: gui_buttons.py:324 gui_buttons.py:365 gui_buttons.py:573 gui_buttons.py:622
+msgid "Farm"
+msgstr ""
+
+#: gui_buttons.py:326 gui_buttons.py:369 gui_buttons.py:575 gui_buttons.py:625
+msgid "Well"
+msgstr ""
+
+#: gui_buttons.py:338 gui_buttons.py:476
+msgid "Set Up"
+msgstr ""
+
+#: gui_buttons.py:350
+msgid "House: "
+msgstr ""
+
+#: gui_buttons.py:354
+msgid "Hospital: "
+msgstr ""
+
+#: gui_buttons.py:358
+msgid "School: "
+msgstr ""
+
+#: gui_buttons.py:362
+msgid "Workshop: "
+msgstr ""
+
+#: gui_buttons.py:366
+msgid "Farm: "
+msgstr ""
+
+#: gui_buttons.py:370
+msgid "Well: "
+msgstr ""
+
+#: gui_buttons.py:408
+msgid " Please select a Facility for building"
+msgstr ""
+
+#: gui_buttons.py:410 threades.py:285
+msgid "Facility has been build"
+msgstr ""
+
+#: gui_buttons.py:428
+msgid "Setup Farm "
+msgstr ""
+
+#: gui_buttons.py:446 gui_buttons.py:746
+msgid "Rice"
+msgstr ""
+
+#: gui_buttons.py:447
+msgid ""
+"Fruit and \n"
+"Vegetables"
+msgstr ""
+
+#: gui_buttons.py:448 gui_buttons.py:748
+msgid "Beans"
+msgstr ""
+
+#: gui_buttons.py:459
+msgid ""
+"Balance the bar chart to select the percentages of different food items you "
+"want to grow in your farm"
+msgstr ""
+
+#: gui_buttons.py:553
+msgid "Please select a Facility and press Upgrade button to upgrade."
+msgstr ""
+
+#: gui_buttons.py:578
+msgid "Please select a Facility to see its next upgrade"
+msgstr ""
+
+#: gui_buttons.py:598
+msgid "Upgrade"
+msgstr ""
+
+#: gui_buttons.py:631
+msgid "Upgrades "
+msgstr ""
+
+#: gui_buttons.py:652
+msgid " Please select a Facility for Upgrading"
+msgstr ""
+
+#: gui_buttons.py:654 threades.py:371
+msgid "Facility has been upgraded"
+msgstr ""
+
+#: gui_buttons.py:707
+msgid " Buy or Sell Resources "
+msgstr ""
+
+#: gui_buttons.py:725
+msgid "Village"
+msgstr ""
+
+#: gui_buttons.py:726 gui_buttons.py:730
+msgid "Quantity"
+msgstr ""
+
+#: gui_buttons.py:727
+msgid "Price"
+msgstr ""
+
+#: gui_buttons.py:729
+msgid "Market"
+msgstr ""
+
+#: gui_buttons.py:741
+msgid "Water"
+msgstr ""
+
+#: gui_buttons.py:742
+msgid "Building Materials"
+msgstr ""
+
+#: gui_buttons.py:743
+msgid "Tools"
+msgstr ""
+
+#: gui_buttons.py:744
+msgid "Books"
+msgstr ""
+
+#: gui_buttons.py:745
+msgid "Medicines"
+msgstr ""
+
+#: gui_buttons.py:747
+msgid "Fruit & Vegatables"
+msgstr ""
+
+#: gui_buttons.py:749
+msgid "Sugar"
+msgstr ""
+
+#: gui_buttons.py:750
+msgid "Salt"
+msgstr ""
+
+#: gui_buttons.py:751
+msgid "Oil"
+msgstr ""
+
+#: gui_buttons.py:766
+msgid "Trade with Peer Villages"
+msgstr ""
+
+#: gui_buttons.py:790
+msgid "Quantity "
+msgstr ""
+
+#: gui_buttons.py:794 gui_buttons.py:881
+msgid "Price "
+msgstr ""
+
+#: gui_buttons.py:823
+msgid " Buy "
+msgstr ""
+
+#: gui_buttons.py:824
+msgid " Sell "
+msgstr ""
+
+#: gui_buttons.py:825
+msgid "Close"
+msgstr ""
+
+#: gui_buttons.py:854
+msgid ""
+"Welcome to the market of SHEYLAN, where you can trade resources. Select "
+"which item you would like to buy or sell on the left-hand column, enter the "
+"amount, and then choose buy or sell"
+msgstr ""
+
+#: gui_buttons.py:902 gui_buttons.py:911 gui_buttons.py:920 gui_buttons.py:929
+#: gui_buttons.py:938 gui_buttons.py:947 gui_buttons.py:956 gui_buttons.py:965
+#: gui_buttons.py:974 gui_buttons.py:983 gui_buttons.py:992 threades.py:623
+msgid "The Village has bought the resource you demanded"
+msgstr ""
+
+#: gui_buttons.py:999 gui_buttons.py:1115
+msgid " Please select a Resource for Trading"
+msgstr ""
+
+#: gui_buttons.py:1018 gui_buttons.py:1027 gui_buttons.py:1036
+#: gui_buttons.py:1045 gui_buttons.py:1054 gui_buttons.py:1063
+#: gui_buttons.py:1072 gui_buttons.py:1081 gui_buttons.py:1090
+#: gui_buttons.py:1099 gui_buttons.py:1108 threades.py:659 threades.py:661
+msgid "The Village has sold the resource you demanded"
+msgstr ""
+
+#: gui_buttons.py:1148
+msgid "Setup Facility"
+msgstr ""
+
+#: gui_buttons.py:1149
+msgid "Upgrade Facility"
+msgstr ""
+
+#: gui_buttons.py:1150
+msgid "Buy/Sell Resources"
+msgstr ""
+
+#: gui_buttons.py:1238
+msgid " Village doesn't have enough money to buy the resources"
+msgstr ""
+
+#: gui_buttons.py:1244
+msgid " There are not enough resources in the village to trade"
+msgstr ""
+
+#: level_change.py:187
+msgid "Loading New Level..."
+msgstr ""
+
+#: level_change.py:189
+msgid "Loading Level No:"
+msgstr ""
+
+#: natural_calamities.py:79
+msgid " Your Village Sheylan has ben hit by an Earthquake"
+msgstr ""
+
+#: proceduralFlow.py:549
+msgid "    Reward"
+msgstr ""
+
+#: proceduralFlow.py:620 proceduralFlow.py:692
+msgid " FoodForce2"
+msgstr ""
+
+#: texts.py:3
+msgid "in texts.py"
+msgstr ""
+
+#: texts.py:5
+msgid ""
+"Houses would be upgraded to brick and mortar from the mud and thatched roof "
+"houses."
+msgstr ""
+
+#: texts.py:5
+msgid "Every house would be provided with an outhouse toilet."
+msgstr ""
+
+#: texts.py:5
+msgid "Electricity connection have been provided to every house."
+msgstr ""
+
+#: texts.py:6
+msgid ""
+"Hospitals have been upgraded to brick and mortar from the mud and thatched "
+"roof Hospitals."
+msgstr ""
+
+#: texts.py:6
+msgid ""
+"The Hospitals have been renovated and stuffed with investigatory equipments."
+msgstr ""
+
+#: texts.py:6
+msgid ""
+"Hospitals have been provided electricity connection and have been provided "
+"with corrugated roof."
+msgstr ""
+
+#: texts.py:7
+msgid ""
+"Schools have been upgraded to brick and mortar from the mud and thatched "
+"roof school."
+msgstr ""
+
+#: texts.py:7
+msgid ""
+"School's capacity for number of children who can be educated in the school "
+"has increased with upgradation of furniture."
+msgstr ""
+
+#: texts.py:7
+msgid "Schools have been provided with electricity"
+msgstr ""
+
+#: texts.py:8
+msgid ""
+"Workshops have been upgraded to brick and mortar from the mud and thatched "
+"roof Workshop."
+msgstr ""
+
+#: texts.py:8
+msgid "Installation of chimney's and mechanised tools have been done."
+msgstr ""
+
+#: texts.py:8
+msgid ""
+"Workshops would be provided outhouse for workers to rest and also have been "
+"electrified."
+msgstr ""
+
+#: texts.py:9
+msgid ""
+"The farms are going to be upgraded so that they would be increasing the "
+"production."
+msgstr ""
+
+#: texts.py:9
+msgid ""
+"The villagers are going to be taught about multiple crop farming so that "
+"they can grow many crops in the same farm."
+msgstr ""
+
+#: texts.py:9
+msgid ""
+"The villagers are going to be taught about how to use fertilizers for the "
+"farms to increase their productivity."
+msgstr ""
+
+#: texts.py:10
+msgid "Upgrading a well increases the production of water"
+msgstr ""
+
+#: texts.py:14
+msgid "Poverty is hunger"
+msgstr ""
+
+#: texts.py:14
+msgid "Hunger is Poverty  "
+msgstr ""
+
+#: texts.py:14
+msgid "WFP and SEETA aim to break this vicious cycle"
+msgstr ""
+
+#: texts.py:15
+msgid "When disaster strikes"
+msgstr ""
+
+#: texts.py:15
+msgid "WFP brings food to the hungry"
+msgstr ""
+
+#: texts.py:15
+msgid "SEETA brings spirit and knowledge to fightback"
+msgstr ""
+
+#: texts.py:16
+msgid "Aim : Manage crisis, rebuild lives and bring back peace, "
+msgstr ""
+
+#: texts.py:16
+msgid "prosperity and sustainability"
+msgstr ""
+
+#: texts.py:17
+msgid "Join the Food Force "
+msgstr ""
+
+#: texts.py:18
+msgid "Help your people become Physically, Socially, "
+msgstr ""
+
+#: texts.py:18
+msgid "Mentally AND Spiritually healthy  "
+msgstr ""
+
+#: texts.py:19
+msgid "Grow food"
+msgstr ""
+
+#: texts.py:19
+msgid "Trade food"
+msgstr ""
+
+#: texts.py:19
+msgid "Make your village Self-sufficient"
+msgstr ""
+
+#: texts.py:19
+msgid "Give your community a balanced diet"
+msgstr ""
+
+#: texts.py:20
+msgid "You decide  "
+msgstr ""
+
+#: texts.py:20
+msgid "What to Grow?"
+msgstr ""
+
+#: texts.py:20
+msgid "What to Sell?  "
+msgstr ""
+
+#: texts.py:20
+msgid "What to Buy?  "
+msgstr ""
+
+#: texts.py:20
+msgid "Where to Invest? "
+msgstr ""
+
+#: texts.py:21
+msgid "Wise decisions for a sustainable growth "
+msgstr ""
+
+#: texts.py:21
+msgid "Breaking the vicious cycle of hunger and poverty"
+msgstr ""
+
+#: texts.py:26
+msgid ""
+"Welcome to Gokul village. \n"
+"Join the Food Force and make your community healthy and village self-"
+"sufficient. \n"
+"\n"
+"You can \n"
+"-Grow food.\n"
+"-Buy food.\n"
+"-Trade goods.\n"
+"-Help meet the basic necessities of your community: \n"
+"  food, \n"
+"  water \n"
+"  and shelter. \n"
+"-Invest in health and education. "
+msgstr ""
+
+#: texts.py:27
+msgid ""
+"Living  \n"
+"\n"
+"House \n"
+"One house per family- Help build housing for safe, secure and healthy "
+"living. \n"
+"\n"
+"Sanitation \n"
+"Help upgrade to an outhouse toilet per house. \n"
+"\n"
+"Farm \n"
+"Setup farms and help provide balanced diet to your community. \n"
+"\n"
+"Well \n"
+"Water is the key to survival and sustainence.\n"
+"Upgrade your well to get more water."
+msgstr ""
+
+#: texts.py:28
+msgid ""
+"Community \n"
+"\n"
+"Workshop \n"
+"Build materials and tools for construction of facilities. \n"
+"\n"
+"School \n"
+"Invest in education, invest in growth. Build schools. Use indicators to "
+"measure performance. \n"
+"\n"
+"Hospital \n"
+"Build hospitals for prevention and cure of diseases, provide vaccination to "
+"infants \n"
+"and organize events for community hygiene."
+msgstr ""
+
+#: texts.py:29
+msgid ""
+"Resources \n"
+"\n"
+" Food \n"
+" Water \n"
+" Medicine \n"
+" Books \n"
+" Tools \n"
+" Construction Materials "
+msgstr ""
+
+#: texts.py:30
+msgid ""
+"Food \n"
+"\n"
+"Provide balanced diet to your people for a healthy, active and strong "
+"community.\n"
+"At Gokul, you grow, buy and eat \n"
+"\n"
+"Rice \n"
+"Rice is the staple food and major source of carbohydrates at Gokul. \n"
+"\n"
+"Fruit & Vegetables \n"
+"Source of vitamins and minerals. About a third of every villager's diet at "
+"Gokul is composed of fruits and vegetables. \n"
+"Grow them in farm, consume, and trade them (in kilograms) at the market."
+msgstr ""
+
+#: texts.py:31
+msgid ""
+"Beans \n"
+"Source of proteins at Gokul. Grow them in farms, consume and trade them (in "
+"kilograms) at the market. \n"
+"\n"
+"Sugar, Salt and Oils \n"
+"They are added to your food items. Buy them at the market for your family. \n"
+"Sugar and oil help you provide carbohydrates and fats. Salt provides you "
+"minerals. \n"
+"Keep their quantities balanced."
+msgstr ""
+
+#: texts.py:32
+msgid ""
+"Water \n"
+"Water is the key to survival and sustainence. \n"
+"Used for drinking, washing and raising crops. \n"
+"Maintain and improve the wells for a constant supply of clean water. \n"
+"\n"
+"Medicine \n"
+"Medicine for treatment and cure of diseases. \n"
+"\n"
+"Vaccination for children \n"
+"Ensure a steady supply of medicines for a safe and a healthy Gokul."
+msgstr ""
+
+#: texts.py:33
+msgid ""
+"Books \n"
+"Books are meant for young and old, keep them well my friend, their weight is "
+"gold. \n"
+"Maintain the existing books in school libraries, and order more whenever "
+"required. Books on nutrition, hygiene and agriculture will help the "
+"community to adapt best practices at Gokul. \n"
+"\n"
+"Tools \n"
+"Make or buy tools for maintaining fields and growing crops, and for \n"
+"construction of facilities. \n"
+"\n"
+"Building Materials \n"
+"Straw, wood, mud and bricks compose the building materials. \n"
+"Produce building materials at the workshop, or buy them at the market for "
+"construction of facilities. "
+msgstr ""
+
+#: texts.py:51
+msgid "Living is learning. Learning is living."
+msgstr ""
+
+#: texts.py:51
+msgid "We define learning as a compound formed by three elements: "
+msgstr ""
+
+#: texts.py:51
+msgid ""
+"Education - learning from ones physical, social and spiritual environment"
+msgstr ""
+
+#: texts.py:51
+msgid "Training - how to learn learning"
+msgstr ""
+
+#: texts.py:51
+msgid "Entertainment - learning should always be fun, Happy Learning"
+msgstr ""
+
+#: texts.py:51
+msgid ""
+"Our vision is to engineer and deploy interactive platforms to enable and "
+"cherish learning."
+msgstr ""
+
+#: texts.py:51
+msgid ""
+"Please write to us at discuss@seeta.in for opinions, feedback and ideas for "
+msgstr ""
+
+#: texts.py:51
+msgid "development. "
+msgstr ""
+
+#: texts.py:51
+msgid "We look forward to hearing from you."
+msgstr ""
+
+#: threades.py:121 threades.py:140
+msgid "Facility "
+msgstr ""
+
+#: threades.py:121
+msgid ""
+" has been temporarily stopped due to insufficient resources to run the "
+"facility"
+msgstr ""
+
+#: threades.py:140
+msgid " has been resumed"
+msgstr ""
+
+#: threades.py:150
+msgid "Number :"
+msgstr ""
+
+#: threades.py:152
+msgid "   Level :"
+msgstr ""
+
+#: threades.py:156
+msgid "Resources required to build :  BUILDING MATERIAL:"
+msgstr ""
+
+#: threades.py:156
+msgid " TOOLS :"
+msgstr ""
+
+#: threades.py:156
+msgid " WATER :"
+msgstr ""
+
+#: threades.py:159
+msgid "Resources required to run : "
+msgstr ""
+
+#: threades.py:163
+msgid "Manpower required : To build: "
+msgstr ""
+
+#: threades.py:163
+msgid " To run: "
+msgstr ""
+
+#: threades.py:179
+msgid "Resources required to upgrade : BUILDING MATERIAL: "
+msgstr ""
+
+#: threades.py:179
+msgid " TOOLS: "
+msgstr ""
+
+#: threades.py:181
+msgid ""
+"You cannot upgrade the facility anymore, it has reached its maximum level"
+msgstr ""
+
+#: threades.py:195
+msgid ""
+"You cannot build a facility when it has been temporarily stopped, try "
+"building it when it is resumed"
+msgstr ""
+
+#: threades.py:223
+msgid "You dont have enough resources to build the facility,  please try later"
+msgstr ""
+
+#: threades.py:227
+msgid "You dont have enough manpower to build the facility, please try later"
+msgstr ""
+
+#: threades.py:231
+msgid ""
+"You cannot setup more buildings of this facility, try setting up some other "
+"facility"
+msgstr ""
+
+#: threades.py:332
+msgid ""
+"You cannot upgrade a facility when it has been temporarily stopped, try "
+"upgrading it when it is resumed"
+msgstr ""
+
+#: threades.py:335
+msgid "You need to setup a facility first to upgrade it"
+msgstr ""
+
+#: threades.py:343
+msgid ""
+"You don't have enough resources to upgrade the facility please try later"
+msgstr ""
+
+#: threades.py:347
+msgid "Facility has reached its maximum level you cant upgrade it now"
+msgstr ""
+
+#: threades.py:614
+msgid ""
+"You dont have enough money to buy this resource. Please change the quantity "
+"or try later"
+msgstr ""
+
+#: threades.py:617
+msgid ""
+"The market doesnot have enough quantity to sell this resource to village"
+msgstr ""
+
+#: threades.py:620
+msgid ""
+"The Village cannot store so much amount of resources you should try and use "
+"the money to buy some other resources "
+msgstr ""
+
+#: threades.py:656
+msgid ""
+"The village doesnot have enough quantity to sell this resource to market"
+msgstr ""

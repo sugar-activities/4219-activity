@@ -1,0 +1,1187 @@
+# Hindi translations for FoodForce package.
+# Copyright (C) 2009 THE FoodForce'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the FoodForce package.
+# root <root@yogesh-laptop>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FoodForce 2.activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-15 03:22+0530\n"
+"PO-Revision-Date: 2009-10-15 13:25+0530\n"
+"Last-Translator: yogesh <yogesh2021@gmail.com>\n"
+"Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+#: activity.py:8
+msgid "FoodForce2"
+msgstr "फूडफोर्स २"
+
+#: game_sharing.py:133
+msgid "The Resources have been traded"
+msgstr "संसाधन कारोबार किया गया है"
+
+#: game_sharing.py:136
+msgid "The Resources have already been traded with someone"
+msgstr "संसाधन पहले से ही किसी के साथ कारोबार किया गया है"
+
+#: game_sharing.py:148
+#: game_sharing.py:162
+msgid "The Resources have been traded with "
+msgstr "संसाधन कारोबार है साथ"
+
+#: game_sharing.py:360
+msgid "Trade "
+msgstr "व्यापार"
+
+#: game_sharing.py:362
+msgid " wants to "
+msgstr "चाहता है"
+
+#: game_sharing.py:362
+msgid " units of "
+msgstr "इकाइयों की"
+
+#: game_sharing.py:370
+msgid " Accept "
+msgstr "स्वीकार"
+
+#: game_sharing.py:371
+msgid " Reject "
+msgstr "अस्वीकार"
+
+#: natural_calamities.py:79
+msgid " Your Village Sheylan has ben hit by an Earthquake"
+msgstr "अपने गाँव Sheylan एक भूकंप ने टक्कर मार दी है बेन"
+
+#: proceduralFlow.py:549
+msgid "    Reward"
+msgstr "इनाम"
+
+#: proceduralFlow.py:620
+#: proceduralFlow.py:692
+msgid " FoodForce2"
+msgstr "फूडफोर्स २"
+
+#: chat.py:86
+msgid "ENTER : To show whole chat"
+msgstr "दर्ज करें: पूरे चैट शो करने के लिए"
+
+#: chat.py:86
+#: chat.py:266
+msgid "ESC : To skip chat"
+msgstr "ईएससी: छोड़ चैट"
+
+#: chat.py:266
+msgid "ENTER : To move to next set of chats"
+msgstr "दर्ज करें: चैट के अगले सेट करने के लिए कदम"
+
+#: display_panel.py:100
+msgid "Indicators"
+msgstr "संकेतक"
+
+#: display_panel.py:113
+msgid " Housing"
+msgstr "आवास"
+
+#: display_panel.py:113
+msgid " Nutrition"
+msgstr "पोषाहार"
+
+#: display_panel.py:113
+msgid " Health"
+msgstr "स्वास्थ्य"
+
+#: display_panel.py:113
+msgid " Education"
+msgstr "शिक्षा"
+
+#: display_panel.py:113
+msgid " Training"
+msgstr "प्रशिक्षण"
+
+#: display_panel.py:196
+#: gui_buttons.py:724
+msgid "Resources"
+msgstr "संसाधन"
+
+#: display_panel.py:219
+msgid "Money -:"
+msgstr "धन -:"
+
+#: display_panel.py:220
+msgid "Time Elapsed -:"
+msgstr "समय बीत -:"
+
+#: display_panel.py:220
+msgid "Level Just Started"
+msgstr "स्तर अभी शुरू"
+
+#: display_panel.py:223
+msgid " Water"
+msgstr "पानी"
+
+#: display_panel.py:223
+msgid " Building Materials"
+msgstr "निर्माण सामग्री"
+
+#: display_panel.py:223
+msgid " Tools"
+msgstr "उपकरण"
+
+#: display_panel.py:223
+msgid " Medicines"
+msgstr "दवाई"
+
+#: display_panel.py:223
+msgid " Books"
+msgstr "किताबें"
+
+#: display_panel.py:230
+msgid " Rice"
+msgstr "चावल"
+
+#: display_panel.py:230
+msgid " Fruit & Vegatables"
+msgstr "फल और सब्जी.आं"
+
+#: display_panel.py:230
+msgid " Beans"
+msgstr "सेम"
+
+#: display_panel.py:230
+msgid " Sugar"
+msgstr "चीनी"
+
+#: display_panel.py:230
+msgid " Salt"
+msgstr "नमक"
+
+#: display_panel.py:230
+msgid " Oil"
+msgstr "तेल"
+
+#: display_panel.py:256
+#: display_panel.py:258
+msgid "Money -:   "
+msgstr "धन -:"
+
+#: display_panel.py:264
+msgid "Time Elapsed -:   "
+msgstr "समय बीत -:"
+
+#: display_panel.py:264
+msgid "Years: "
+msgstr "वर्ष:"
+
+#: display_panel.py:264
+msgid "  Months: "
+msgstr "माह:"
+
+#: display_panel.py:264
+msgid "  Days: "
+msgstr "दिन:"
+
+#: display_panel.py:307
+msgid "  Manpower Distribution"
+msgstr "जनशक्ति वितरण"
+
+#: display_panel.py:327
+msgid " Total Population"
+msgstr "कुल जनसंख्या"
+
+#: display_panel.py:327
+msgid " Sheltered People"
+msgstr "आश्रय लोग"
+
+#: display_panel.py:327
+msgid " Educated People"
+msgstr "शिक्षित लोग"
+
+#: display_panel.py:327
+msgid " Healthy People"
+msgstr "स्वस्थ लोग"
+
+#: display_panel.py:327
+msgid " People Fed"
+msgstr "लोगों को परेशान"
+
+#: display_panel.py:327
+msgid " People Employed"
+msgstr "लोग कार्यरत हैं"
+
+#: display_panel.py:381
+msgid "Houses "
+msgstr "मकान"
+
+#: display_panel.py:381
+msgid "Schools "
+msgstr "स्कूलों"
+
+#: display_panel.py:381
+msgid "Hospitals "
+msgstr "अस्पतालों"
+
+#: display_panel.py:381
+msgid "Workshops "
+msgstr "कार्यशालाओं"
+
+#: display_panel.py:381
+msgid "Farms "
+msgstr "खेतों"
+
+#: display_panel.py:381
+msgid "Wells "
+msgstr "वेल्स"
+
+#: display_panel.py:382
+msgid "Number: "
+msgstr "संख्या:"
+
+#: display_panel.py:388
+msgid " Level: "
+msgstr "स्तर:"
+
+#: Foodforce2.py:88
+msgid "Message "
+msgstr "संदेश"
+
+#: Foodforce2.py:260
+msgid "Start New Game"
+msgstr "नयाखेलप्रारंभकरें"
+
+#: Foodforce2.py:263
+msgid "Resume Game"
+msgstr "खेल फिर से शुरू"
+
+#: Foodforce2.py:267
+msgid "Controls"
+msgstr "नियंत्रण"
+
+#: Foodforce2.py:268
+msgid "Exit"
+msgstr "बाहर निकलें"
+
+#: Foodforce2.py:269
+msgid "Guide"
+msgstr "गाइड"
+
+#: Foodforce2.py:270
+msgid "About Us"
+msgstr "हमारे बारे में"
+
+#: Foodforce2.py:304
+msgid "     Guide"
+msgstr "गाइड"
+
+#: Foodforce2.py:317
+#: Foodforce2.py:483
+msgid "  Skip  "
+msgstr "कूदना"
+
+#: Foodforce2.py:318
+msgid "  Next > "
+msgstr "अगला>"
+
+#: Foodforce2.py:319
+msgid "  < Prev  "
+msgstr "<पिछला"
+
+#: Foodforce2.py:395
+msgid "     About Us "
+msgstr "हमारे बारे में"
+
+#: Foodforce2.py:410
+msgid "  Close  "
+msgstr "बंद करना"
+
+#: Foodforce2.py:466
+msgid " FOODFORCE II : ESCAPING POVERTY  "
+msgstr "फूडफोर्स द्वितीय: गरीबी से बचने"
+
+#: Foodforce2.py:571
+msgid "     Controls "
+msgstr "नियंत्रण"
+
+#: Foodforce2.py:575
+msgid "  Setup Facility           :       s"
+msgstr "एस सेटअप सुविधा:       s"
+
+#: Foodforce2.py:575
+msgid "  Upgrade Facility       :       u "
+msgstr "अद्यतन सुविधा:         u"
+
+#: Foodforce2.py:575
+msgid "Buy/Sell                    :       b"
+msgstr "खरीदना / बेचना:        b"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen up       :       up arrow "
+msgstr "पत्रिका ने threades.screen:       तीर अप"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen down   :       down arrow"
+msgstr "पुस्तक नीचे threades.screen: नीचे तीर"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen left      :       left arrow"
+msgstr "पुस्तक threades.screen छोड़ दिया:  बाईं तीर"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen right    :       right arrow "
+msgstr "पुस्तक threades.screen सही: सही तीर"
+
+#: Foodforce2.py:584
+msgid "Setup Facility "
+msgstr "सेटअप सुविधा"
+
+#: Foodforce2.py:585
+#: gui_buttons.py:536
+msgid "Upgrade Facility "
+msgstr "अद्यतन सुविधा"
+
+#: Foodforce2.py:586
+msgid "Buy/Sell "
+msgstr "खरीदना / बेचना"
+
+#: Foodforce2.py:587
+msgid "Scroll Screen up "
+msgstr "पुस्तक स्क्रीन ऊपर"
+
+#: Foodforce2.py:588
+msgid "Scroll Screen down"
+msgstr "पुस्तक नीचे स्क्रीन"
+
+#: Foodforce2.py:589
+msgid "Scroll Screen left "
+msgstr "पुस्तक स्क्रीन छोड़ दिया"
+
+#: Foodforce2.py:590
+msgid "Scroll Screen right "
+msgstr "पुस्तक स्क्रीन का अधिकार"
+
+#: Foodforce2.py:591
+msgid "Focus "
+msgstr "फोकस"
+
+#: Foodforce2.py:592
+msgid "De Focus "
+msgstr "डी फोकस"
+
+#: Foodforce2.py:608
+msgid "up arrow "
+msgstr "ऊपर तीर"
+
+#: Foodforce2.py:609
+msgid "down arrow "
+msgstr "नीचे तीर"
+
+#: Foodforce2.py:610
+msgid "left arrrow "
+msgstr "बाएं तीर "
+
+#: Foodforce2.py:611
+msgid "right arrow "
+msgstr "दाएं तीर"
+
+#: Foodforce2.py:616
+msgid "  OK  "
+msgstr "ठीक है"
+
+#: Foodforce2.py:753
+msgid "this will test localisation in the log"
+msgstr "इस प्रवेश में स्थानीयकरण का परीक्षण होगा"
+
+#: gui_buttons.py:276
+msgid "Set up a facility for your village "
+msgstr "सेट अपने गांव के लिए एक सुविधा अप"
+
+#: gui_buttons.py:295
+msgid "What would you like to set up? Choose a facility from the list and press the Set Up button."
+msgstr "आप की स्थापना की क्या करना चाहेंगे? सूची में से एक सुविधा चुनें और ऊपर का बटन निर्धारित करें दबाएँ."
+
+#: gui_buttons.py:297
+msgid "Please select a Facility to see its status and Requirements"
+msgstr "कृपया एक सुविधा को चुनने के लिए अपनी स्थिति और आवश्यकताएँ देखें"
+
+#: gui_buttons.py:316
+#: gui_buttons.py:349
+#: gui_buttons.py:565
+#: gui_buttons.py:610
+msgid "House"
+msgstr "मकान"
+
+#: gui_buttons.py:318
+#: gui_buttons.py:353
+#: gui_buttons.py:567
+#: gui_buttons.py:613
+msgid "Hospital"
+msgstr "अस्पताल"
+
+#: gui_buttons.py:320
+#: gui_buttons.py:361
+#: gui_buttons.py:569
+#: gui_buttons.py:619
+msgid "Workshop"
+msgstr "कार्यशाला"
+
+#: gui_buttons.py:322
+#: gui_buttons.py:357
+#: gui_buttons.py:571
+#: gui_buttons.py:616
+msgid "School"
+msgstr "विद्यालय"
+
+#: gui_buttons.py:324
+#: gui_buttons.py:365
+#: gui_buttons.py:573
+#: gui_buttons.py:622
+msgid "Farm"
+msgstr "खेत"
+
+#: gui_buttons.py:326
+#: gui_buttons.py:369
+#: gui_buttons.py:575
+#: gui_buttons.py:625
+msgid "Well"
+msgstr "कुआं"
+
+#: gui_buttons.py:338
+#: gui_buttons.py:476
+msgid "Set Up"
+msgstr "स्थापित करना"
+
+#: gui_buttons.py:350
+msgid "House: "
+msgstr "मकान:"
+
+#: gui_buttons.py:354
+msgid "Hospital: "
+msgstr "अस्पताल:"
+
+#: gui_buttons.py:358
+msgid "School: "
+msgstr "विद्यालय:"
+
+#: gui_buttons.py:362
+msgid "Workshop: "
+msgstr "कार्यशाला:"
+
+#: gui_buttons.py:366
+msgid "Farm: "
+msgstr "खेत:"
+
+#: gui_buttons.py:370
+msgid "Well: "
+msgstr "कुआं:"
+
+#: gui_buttons.py:408
+msgid " Please select a Facility for building"
+msgstr "कृपया निर्माण के लिए एक सुविधा का चयन करें"
+
+#: gui_buttons.py:410
+#: threades.py:285
+msgid "Facility has been build"
+msgstr "सुविधा का निर्माण हुआ है"
+
+#: gui_buttons.py:428
+msgid "Setup Farm "
+msgstr "सेटअप फार्म"
+
+#: gui_buttons.py:446
+#: gui_buttons.py:746
+msgid "Rice"
+msgstr "चावल"
+
+#: gui_buttons.py:447
+msgid ""
+"Fruit and \n"
+"Vegetables"
+msgstr ""
+"फलों और \n"
+" सब्जियों"
+
+#: gui_buttons.py:448
+#: gui_buttons.py:748
+msgid "Beans"
+msgstr "सेम"
+
+#: gui_buttons.py:459
+msgid "Balance the bar chart to select the percentages of different food items you want to grow in your farm"
+msgstr "शेष बार विभिन्न खाद्य पदार्थों आप अपने खेत में जाना चाहते प्रतिशत चुनें चार्ट"
+
+#: gui_buttons.py:553
+msgid "Please select a Facility and press Upgrade button to upgrade."
+msgstr "कृपया एक सुविधा का चयन करें और अद्यतन बटन को प्रेस में नवीनीकृत."
+
+#: gui_buttons.py:578
+msgid "Please select a Facility to see its next upgrade"
+msgstr "कृपया एक सुविधा को चुनने के लिए अपने अगले उन्नत देख"
+
+#: gui_buttons.py:598
+msgid "Upgrade"
+msgstr "अद्यतन"
+
+#: gui_buttons.py:631
+msgid "Upgrades "
+msgstr "उन्नयन"
+
+#: gui_buttons.py:652
+msgid " Please select a Facility for Upgrading"
+msgstr "कृपया के उन्नयन के लिए एक सुविधा का चयन करें"
+
+#: gui_buttons.py:654
+#: threades.py:371
+msgid "Facility has been upgraded"
+msgstr "सुविधा का उन्नयन किया गया है"
+
+#: gui_buttons.py:707
+msgid " Buy or Sell Resources "
+msgstr "खरीद या बेच संसाधन"
+
+#: gui_buttons.py:725
+msgid "Village"
+msgstr "गांव"
+
+#: gui_buttons.py:726
+#: gui_buttons.py:730
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: gui_buttons.py:727
+msgid "Price"
+msgstr "मूल्य"
+
+#: gui_buttons.py:729
+msgid "Market"
+msgstr "बाजार"
+
+#: gui_buttons.py:741
+msgid "Water"
+msgstr "पानी"
+
+#: gui_buttons.py:742
+msgid "Building Materials"
+msgstr "निर्माण सामग्री"
+
+#: gui_buttons.py:743
+msgid "Tools"
+msgstr "उपकरण"
+
+#: gui_buttons.py:744
+msgid "Books"
+msgstr "किताबें"
+
+#: gui_buttons.py:745
+msgid "Medicines"
+msgstr "दवाई"
+
+#: gui_buttons.py:747
+msgid "Fruit & Vegatables"
+msgstr "फल और सब्जी.आं"
+
+#: gui_buttons.py:749
+msgid "Sugar"
+msgstr "चीनी"
+
+#: gui_buttons.py:750
+msgid "Salt"
+msgstr "नमक"
+
+#: gui_buttons.py:751
+msgid "Oil"
+msgstr "तेल"
+
+#: gui_buttons.py:766
+msgid "Trade with Peer Villages"
+msgstr "सहकर्मी गांवों के साथ व्यापार"
+
+#: gui_buttons.py:790
+msgid "Quantity "
+msgstr "मात्रा"
+
+#: gui_buttons.py:794
+#: gui_buttons.py:881
+msgid "Price "
+msgstr "मूल्य"
+
+#: gui_buttons.py:823
+msgid " Buy "
+msgstr "खरीदना"
+
+#: gui_buttons.py:824
+msgid " Sell "
+msgstr "बेचना"
+
+#: gui_buttons.py:825
+msgid "Close"
+msgstr "बंद करना"
+
+#: gui_buttons.py:854
+msgid "Welcome to the market of SHEYLAN, where you can trade resources. Select which item you would like to buy or sell on the left-hand column, enter the amount, and then choose buy or sell"
+msgstr "शेय्लान के बाजार में आपका स्वागत है तुम संसाधनों जहां व्यापार कर सकते हैं. आइटम का चयन करें जो आप खरीद या बाएँ हाथ स्तम्भ पर बेचने की तरह राशि में प्रवेश करेंगे, तो और खरीदने या बेचने का चयन"
+
+#: gui_buttons.py:902
+#: gui_buttons.py:911
+#: gui_buttons.py:920
+#: gui_buttons.py:929
+#: gui_buttons.py:938
+#: gui_buttons.py:947
+#: gui_buttons.py:956
+#: gui_buttons.py:965
+#: gui_buttons.py:974
+#: gui_buttons.py:983
+#: gui_buttons.py:992
+#: threades.py:623
+msgid "The Village has bought the resource you demanded"
+msgstr "ग्राम संसाधन की मांग की तुम खरीदा है"
+
+#: gui_buttons.py:999
+#: gui_buttons.py:1115
+msgid " Please select a Resource for Trading"
+msgstr "कृपया व्यापार के लिए एक संसाधन का चयन करें"
+
+#: gui_buttons.py:1018
+#: gui_buttons.py:1027
+#: gui_buttons.py:1036
+#: gui_buttons.py:1045
+#: gui_buttons.py:1054
+#: gui_buttons.py:1063
+#: gui_buttons.py:1072
+#: gui_buttons.py:1081
+#: gui_buttons.py:1090
+#: gui_buttons.py:1099
+#: gui_buttons.py:1108
+#: threades.py:659
+#: threades.py:661
+msgid "The Village has sold the resource you demanded"
+msgstr "ग्राम संसाधन तुम मांग बेच दिया है"
+
+#: gui_buttons.py:1148
+msgid "Setup Facility"
+msgstr "सेटअप सुविधा"
+
+#: gui_buttons.py:1149
+msgid "Upgrade Facility"
+msgstr "अद्यतन सुविधा"
+
+#: gui_buttons.py:1150
+msgid "Buy/Sell Resources"
+msgstr "खरीद / संसाधन बेच"
+
+#: gui_buttons.py:1238
+msgid " Village doesn't have enough money to buy the resources"
+msgstr "गांव के लिए पर्याप्त धन संसाधन खरीदने की जरूरत नहीं है"
+
+#: gui_buttons.py:1244
+msgid " There are not enough resources in the village to trade"
+msgstr "वहाँ गांव में पर्याप्त संसाधनों का व्यापार नहीं कर रहे हैं"
+
+#: level_change.py:187
+msgid "Loading New Level..."
+msgstr "लोड हो रहा है नए स्तर पर ..."
+
+#: level_change.py:189
+msgid "Loading Level No:"
+msgstr "लोड हो रहा है स्तर नहीं:"
+
+#: texts.py:3
+msgid "in texts.py"
+msgstr "texts.py में"
+
+#: texts.py:5
+msgid "Houses would be upgraded to brick and mortar from the mud and thatched roof houses."
+msgstr "घरों में मिट्टी और फूस की छत के घरों से ईंट और मोर्टार को उन्नत बनाया जाएगा"
+
+#: texts.py:5
+msgid "Every house would be provided with an outhouse toilet."
+msgstr "हर घर एक बाहर वाले घर शौचालय के साथ उपलब्ध कराया जाएगा."
+
+#: texts.py:5
+msgid "Electricity connection have been provided to every house."
+msgstr "बिजली कनेक्शन के हर घर को प्रदान किया गया है."
+
+#: texts.py:6
+msgid "Hospitals have been upgraded to brick and mortar from the mud and thatched roof Hospitals."
+msgstr "अस्पताल मिट्टी और फूस की छत के अस्पतालों से ईंट और मोर्टार के लिए उन्नत बनाया गया है."
+
+#: texts.py:6
+msgid "The Hospitals have been renovated and stuffed with investigatory equipments."
+msgstr "अस्पतालों का जीर्णोद्धार किया गया है और जांच पड़ताल करने उपकरणों के साथ भरवां"
+
+#: texts.py:6
+msgid "Hospitals have been provided electricity connection and have been provided with corrugated roof."
+msgstr "अस्पतालों को बिजली कनेक्शन दिए गए हैं और नालीदार छत के साथ प्रदान किया गया है."
+
+#: texts.py:7
+msgid "Schools have been upgraded to brick and mortar from the mud and thatched roof school."
+msgstr "विद्यालयों को मिट्टी और फूस की छत के स्कूल से ईंट और मोर्टार के लिए उन्नत बनाया गया है"
+
+#: texts.py:7
+msgid "School's capacity for number of children who can be educated in the school has increased with upgradation of furniture."
+msgstr "जो बच्चे स्कूल में शिक्षित किया जा सकता है की संख्या के लिए स्कूल की क्षमता फर्नीचर के उन्नयन के साथ बढ़ गया है"
+
+#: texts.py:7
+msgid "Schools have been provided with electricity"
+msgstr "स्कूलों में बिजली के साथ उपलब्ध कराया गया है"
+
+#: texts.py:8
+msgid "Workshops have been upgraded to brick and mortar from the mud and thatched roof Workshop."
+msgstr "कार्यशालाओं है मिट्टी और फूस की छत कार्यशाला से ईंट और मोर्टार के लिए उन्नत बनाया गया है"
+
+#: texts.py:8
+msgid "Installation of chimney's and mechanised tools have been done."
+msgstr "चिमनी है और मशीनी उपकरण किया गया है की स्थापना"
+
+#: texts.py:8
+msgid "Workshops would be provided outhouse for workers to rest and also have been electrified."
+msgstr "	कार्यशालाओं आराम करने के लिए मजदूरों के लिए बाहर के घर दी जाएगी और भी बिजली गया है"
+
+#: texts.py:9
+msgid "The farms are going to be upgraded so that they would be increasing the production."
+msgstr "खेतों में इतनी उन्नत है कि वे उत्पादन में वृद्धि हो जाएगी जा रहे हैं"
+
+#: texts.py:9
+msgid "The villagers are going to be taught about multiple crop farming so that they can grow many crops in the same farm."
+msgstr "ग्रामीणों को विभिन्न फसलों की खेती के बारे में इतना सिखाया है कि वे एक ही खेत में कई फसलें पैदा किया जा सकता है ."
+
+#: texts.py:9
+msgid "The villagers are going to be taught about how to use fertilizers for the farms to increase their productivity."
+msgstr "ग्रामीणों को कैसे खेतों के लिए उर्वरकों का उपयोग करने के लिए उनकी उत्पादकता में वृद्धि के बारे में सिखाया जा रहे हैं"
+
+#: texts.py:10
+msgid "Upgrading a well increases the production of water"
+msgstr "उन्नयन एक अच्छी तरह से पानी का उत्पादन बढ़ता है"
+
+#: texts.py:14
+msgid "Poverty is hunger"
+msgstr "गरीबी भूख है"
+
+#: texts.py:14
+msgid "Hunger is Poverty  "
+msgstr "भूख गरीबी है"
+
+#: texts.py:14
+msgid "WFP and SEETA aim to break this vicious cycle"
+msgstr "WFP और SEETA इस दुष्चक्र को तोड़ने का लक्ष्य"
+
+#: texts.py:15
+msgid "When disaster strikes"
+msgstr "जब आपदा हड़तालों"
+
+#: texts.py:15
+msgid "WFP brings food to the hungry"
+msgstr "डब्लूएफपी भूखे को खाना लाता है"
+
+#: texts.py:15
+msgid "SEETA brings spirit and knowledge to fightback"
+msgstr "SEETA भावना और खेल में उनकी वापसी के लिए ज्ञान होता है"
+
+#: texts.py:16
+msgid "Aim : Manage crisis, rebuild lives and bring back peace, "
+msgstr "उद्देश्य: संकट प्रबंधन, जीवन के पुनर्निर्माण और शांति वापस लाने,"
+
+#: texts.py:16
+msgid "prosperity and sustainability"
+msgstr "समृद्धि और स्थिरता"
+
+#: texts.py:17
+msgid "Join the Food Force "
+msgstr "FoodForce में शामिल हो "
+
+#: texts.py:18
+msgid "Help your people become Physically, Socially, "
+msgstr "अपने लोगों को शारीरिक रूप से हो सामाजिक, मदद करो"
+
+#: texts.py:18
+msgid "Mentally AND Spiritually healthy  "
+msgstr "मानसिक रूप से स्वस्थ और आध्यात्मिक"
+
+#: texts.py:19
+msgid "Grow food"
+msgstr "बढ़ती खाद्य"
+
+#: texts.py:19
+msgid "Trade food"
+msgstr "खाना व्यापार"
+
+#: texts.py:19
+msgid "Make your village Self-sufficient"
+msgstr "अपने गांव के स्व बनाने के लिए पर्याप्त"
+
+#: texts.py:19
+msgid "Give your community a balanced diet"
+msgstr "अपने समुदाय को एक संतुलित आहार दो"
+
+#: texts.py:20
+msgid "You decide  "
+msgstr "तुम तय"
+
+#: texts.py:20
+msgid "What to Grow?"
+msgstr "बढ़ती क्या हो?"
+
+#: texts.py:20
+msgid "What to Sell?  "
+msgstr "क्या बेचते हो?"
+
+#: texts.py:20
+msgid "What to Buy?  "
+msgstr "क्या खरीदें?"
+
+#: texts.py:20
+msgid "Where to Invest? "
+msgstr "निवेश के लिए कहाँ?"
+
+#: texts.py:21
+msgid "Wise decisions for a sustainable growth "
+msgstr "एक सतत विकास के लिए समझदार निर्णय"
+
+#: texts.py:21
+msgid "Breaking the vicious cycle of hunger and poverty"
+msgstr "भूख और गरीबी के दुष्चक्र को तोड़ने का"
+
+#: texts.py:26
+msgid ""
+"Welcome to Gokul village. \n"
+"Join the Food Force and make your community healthy and village self-sufficient. \n"
+"\n"
+"You can \n"
+"-Grow food.\n"
+"-Buy food.\n"
+"-Trade goods.\n"
+"-Help meet the basic necessities of your community: \n"
+"  food, \n"
+"  water \n"
+"  and shelter. \n"
+"-Invest in health and education. "
+msgstr ""
+"वेल्कोमे तो गोकुल विल्लगे. \n"
+"जोइन थे फूद फोर्के न्द मके योउर कोम्मुनित्य हेअल्थ्य न्द विल्लगे सेल्फ-सुफ्फिकिएन्त. \n"
+"\n"
+"योउ कन \n"
+"-गरोव फूद.\n"
+"-बुय फूद.\n"
+"-ट्रदे गूद्स.\n"
+"-ःेल्प मीत थे बसिक नेकेस्सितिएस ोफ योउर कोम्मुनित्य: \n"
+"फूद, \n"
+"वतेर \n"
+"न्द शेल्तेर. \n"
+"-ीन्वेस्त िन हेअल्थ न्द ेदुकतिओन"
+
+#: texts.py:27
+msgid ""
+"Living  \n"
+"\n"
+"House \n"
+"One house per family- Help build housing for safe, secure and healthy living. \n"
+"\n"
+"Sanitation \n"
+"Help upgrade to an outhouse toilet per house. \n"
+"\n"
+"Farm \n"
+"Setup farms and help provide balanced diet to your community. \n"
+"\n"
+"Well \n"
+"Water is the key to survival and sustainence.\n"
+"Upgrade your well to get more water."
+msgstr ""
+" ळिविन्ग \n"
+"\n"
+"ोउसे \n"
+"ने होउसे पेर फमिल्य- ःेल्प बुइल्द होउसिन्ग फोर सफे, सेकुरे न्द हेअल्थ्य लिविन्ग. \n"
+"\n"
+"सनिततिओन \n"
+"ेल्प ुप्ग्रदे तो न ोउथोउसे तोइलेत पेर होउसे. \n"
+"\n"
+"फर्म \n"
+"सेतुप फर्म्स न्द हेल्प प्रोविदे बलन्केद दिएत तो योउर कोम्मुनित्य. \n"
+"\n"
+"वेल्ल \n"
+"वतेर िस थे केय तो सुर्विवल न्द सुस्तैनेन्के.\n"
+"प्ग्रदे योउर वेल्ल तो गेत मोरे वतेर."
+
+#: texts.py:28
+msgid ""
+"Community \n"
+"\n"
+"Workshop \n"
+"Build materials and tools for construction of facilities. \n"
+"\n"
+"School \n"
+"Invest in education, invest in growth. Build schools. Use indicators to measure performance. \n"
+"\n"
+"Hospital \n"
+"Build hospitals for prevention and cure of diseases, provide vaccination to infants \n"
+"and organize events for community hygiene."
+msgstr ""
+"कोम्मुनित्य \n"
+"\n"
+"वोर्क्षोप \n"
+"बुइल्द मतेरिअल्स न्द तूल्स फोर कोन्स्त्रुक्तिओन ोफ फकिलितिएस. \n"
+"\n"
+"सचूल \n"
+"ीन्वेस्त िन ेदुकतिओन, िन्वेस्त िन ग्रोव्थ. बुइल्द स्चूल्स. ूसे िन्दिकतोर्स तो मेअसुरे पेर्फोर्मन्के. \n"
+"\n"
+"ःोस्पितल \n"
+"बुइल्द होस्पितल्स फोर प्रेवेन्तिओन न्द कुरे ोफ दिसेअसेस, प्रोविदे वक्किनतिओन तो िन्फन्त्स \n"
+"न्द ोर्गनिझे ेवेन्त्स फोर कोम्मुनित्य ह्य्गिएने."
+
+#: texts.py:29
+msgid ""
+"Resources \n"
+"\n"
+" Food \n"
+" Water \n"
+" Medicine \n"
+" Books \n"
+" Tools \n"
+" Construction Materials "
+msgstr ""
+"रेसोउर्केस \n"
+"\n"
+"फूद \n"
+"वतेर \n"
+"ंेदिकिने \n"
+"बूक्स \n"
+"टूल्स \n"
+"कोन्स्त्रुक्तिओन ंतेरिअल्स"
+
+#: texts.py:30
+msgid ""
+"Food \n"
+"\n"
+"Provide balanced diet to your people for a healthy, active and strong community.\n"
+"At Gokul, you grow, buy and eat \n"
+"\n"
+"Rice \n"
+"Rice is the staple food and major source of carbohydrates at Gokul. \n"
+"\n"
+"Fruit & Vegetables \n"
+"Source of vitamins and minerals. About a third of every villager's diet at Gokul is composed of fruits and vegetables. \n"
+"Grow them in farm, consume, and trade them (in kilograms) at the market."
+msgstr ""
+"फूद \n"
+"\n"
+"परोविदे बलन्केद दिएत तो योउर पेओप्ले फोर हेअल्थ्य, क्तिवे न्द स्त्रोन्ग कोम्मुनित्य.\n"
+"ात गोकुल, योउ ग्रोव, बुय न्द ेअत \n"
+"\n"
+"रिके \n"
+"रिके िस थे स्तप्ले फूद न्द मजोर सोउर्के ोफ कर्बोह्य्द्रतेस त गोकुल. \n"
+"\n"
+"फरुइत & वेगेतब्लेस \n"
+"सोउर्के ोफ वितमिन्स न्द मिनेरल्स. ाबोउत थिर्द ोफ ेवेर्य विल्लगेर'स दिएत त गोकुल िस कोम्पोसेद ोफ फ्रुइत्स न्द वेगेतब्लेस. \n"
+"गरोव थेम िन फर्म, कोन्सुमे, न्द त्रदे थेम (िन किलोग्रम्स) त थे मर्केत."
+
+#: texts.py:31
+msgid ""
+"Beans \n"
+"Source of proteins at Gokul. Grow them in farms, consume and trade them (in kilograms) at the market. \n"
+"\n"
+"Sugar, Salt and Oils \n"
+"They are added to your food items. Buy them at the market for your family. \n"
+"Sugar and oil help you provide carbohydrates and fats. Salt provides you minerals. \n"
+"Keep their quantities balanced."
+msgstr ""
+"बेअन्स \n"
+"सोउर्के ोफ प्रोतेइन्स त गोकुल. गरोव थेम िन फर्म्स, कोन्सुमे न्द त्रदे थेम (िन किलोग्रम्स) त थे मर्केत. \n"
+"\n"
+"सुगर, सल्त न्द ोिल्स \n"
+"ठेय रे द्देद तो योउर फूद ितेम्स. बुय थेम त थे मर्केत फोर योउर फमिल्य. \n"
+"सुगर न्द ोइल हेल्प योउ प्रोविदे कर्बोह्य्द्रतेस न्द फत्स. सल्त प्रोविदेस योउ मिनेरल्स. \n"
+"कीप थेइर qुअन्तितिएस बलन्केद."
+
+#: texts.py:32
+msgid ""
+"Water \n"
+"Water is the key to survival and sustainence. \n"
+"Used for drinking, washing and raising crops. \n"
+"Maintain and improve the wells for a constant supply of clean water. \n"
+"\n"
+"Medicine \n"
+"Medicine for treatment and cure of diseases. \n"
+"\n"
+"Vaccination for children \n"
+"Ensure a steady supply of medicines for a safe and a healthy Gokul."
+msgstr ""
+"वतेर \n"
+"वतेर िस थे केय तो सुर्विवल न्द सुस्तैनेन्के. \n"
+"ूसेद फोर द्रिन्किन्ग, वशिन्ग न्द रैसिन्ग क्रोप्स. \n"
+"ंैन्तैन न्द िम्प्रोवे थे वेल्ल्स फोर कोन्स्तन्त सुप्प्ल्य ोफ क्लेअन वतेर. \n"
+"\n"
+"ंेदिकिने \n"
+"ंेदिकिने फोर त्रेअत्मेन्त न्द कुरे ोफ दिसेअसेस. \n"
+"\n"
+"वक्किनतिओन फोर चिल्द्रेन \n"
+"ेन्सुरे स्तेअद्य सुप्प्ल्य ोफ मेदिकिनेस फोर सफे न्द हेअल्थ्य गोकुल."
+
+#: texts.py:33
+msgid ""
+"Books \n"
+"Books are meant for young and old, keep them well my friend, their weight is gold. \n"
+"Maintain the existing books in school libraries, and order more whenever required. Books on nutrition, hygiene and agriculture will help the community to adapt best practices at Gokul. \n"
+"\n"
+"Tools \n"
+"Make or buy tools for maintaining fields and growing crops, and for \n"
+"construction of facilities. \n"
+"\n"
+"Building Materials \n"
+"Straw, wood, mud and bricks compose the building materials. \n"
+"Produce building materials at the workshop, or buy them at the market for construction of facilities. "
+msgstr ""
+"बूक्स \n"
+"बूक्स रे मेअन्त फोर योउन्ग न्द ोल्द, कीप थेम वेल्ल म्य फ्रिएन्द, थेइर वेइघ्त िस गोल्द. \n"
+"ंैन्तैन थे ेxिस्तिन्ग बूक्स िन स्चूल लिब्ररिएस, न्द ोर्देर मोरे व्हेनेवेर रेqुइरेद. बूक्स ोन नुत्रितिओन, ह्य्गिएने न्द ग्रिकुल्तुरे विल्ल हेल्प थे कोम्मुनित्य तो दप्त बेस्त प्रक्तिकेस त गोकुल. \n"
+"\n"
+"टूल्स \n"
+"ंके ोर बुय तूल्स फोर मैन्तैनिन्ग फिएल्द्स न्द ग्रोविन्ग क्रोप्स, न्द फोर \n"
+"कोन्स्त्रुक्तिओन ोफ फकिलितिएस. \n"
+"\n"
+"बुइल्दिन्ग ंतेरिअल्स \n"
+"सत्रव, वूद, मुद न्द ब्रिक्क्स कोम्पोसे थे बुइल्दिन्ग मतेरिअल्स. \n"
+"परोदुके बुइल्दिन्ग मतेरिअल्स त थे वोर्क्षोप, ोर बुय थेम त थे मर्केत फोर कोन्स्त्रुक्तिओन ोफ फकिलितिएस."
+
+#: texts.py:51
+msgid "Living is learning. Learning is living."
+msgstr "जहाँ सीख रहा है. सीखना रह रही है"
+
+#: texts.py:51
+msgid "We define learning as a compound formed by three elements: "
+msgstr "हम एक तीन तत्वों द्वारा गठित यौगिक के रूप में सीखने को परिभाषित:"
+
+#: texts.py:51
+msgid "Education - learning from ones physical, social and spiritual environment"
+msgstr "शिक्षा - भौतिक वाले, सामाजिक और आध्यात्मिक वातावरण से सीख"
+
+#: texts.py:51
+msgid "Training - how to learn learning"
+msgstr "- प्रशिक्षण कैसे सीखने जानने के लिए"
+
+#: texts.py:51
+msgid "Entertainment - learning should always be fun, Happy Learning"
+msgstr "मनोरंजन - हमेशा मजा, मुबारक सीखना चाहिए सीखने"
+
+#: texts.py:51
+msgid "Our vision is to engineer and deploy interactive platforms to enable and cherish learning."
+msgstr "हमारी दृष्टि के लिए इंजीनियर और इंटरैक्टिव प्लेटफार्मों को तैनात करने में सक्षम है और सीखने का मज़ा लेते है"
+
+#: texts.py:51
+msgid "Please write to us at discuss@seeta.in for opinions, feedback and ideas for "
+msgstr "कृपया राय, राय और विचारों के लिए discuss@seeta.in में हमारे लिए लिखने के लिए"
+
+#: texts.py:51
+msgid "development. "
+msgstr "विकास."
+
+#: texts.py:51
+msgid "We look forward to hearing from you."
+msgstr "हम तुम से सुनने के लिए उत्सुक हैं."
+
+#: threades.py:121
+#: threades.py:140
+msgid "Facility "
+msgstr "सुविधा"
+
+#: threades.py:121
+msgid " has been temporarily stopped due to insufficient resources to run the facility"
+msgstr "अस्थायी रूप से बंद कर दिया गया है अपर्याप्त संसाधनों के कारण सुविधा चला गया है"
+
+#: threades.py:140
+msgid " has been resumed"
+msgstr "फिर से शुरू किया गया है"
+
+#: threades.py:150
+msgid "Number :"
+msgstr "संख्या:"
+
+#: threades.py:152
+msgid "   Level :"
+msgstr "स्तर:"
+
+#: threades.py:156
+msgid "Resources required to build :  BUILDING MATERIAL:"
+msgstr "संसाधनों के लिए निर्माण: भवन निर्माण सामग्री की आवश्यकता:"
+
+#: threades.py:156
+msgid " TOOLS :"
+msgstr "उपकरण:"
+
+#: threades.py:156
+msgid " WATER :"
+msgstr "जल:"
+
+#: threades.py:159
+msgid "Resources required to run : "
+msgstr "संसाधनों को चलाने के लिए आवश्यक:"
+
+#: threades.py:163
+msgid "Manpower required : To build: "
+msgstr "जनशक्ति की आवश्यकता: बनाने:"
+
+#: threades.py:163
+msgid " To run: "
+msgstr "चलाने के लिए:"
+
+#: threades.py:179
+msgid "Resources required to upgrade : BUILDING MATERIAL: "
+msgstr "संसाधनों में नवीनीकृत: भवन निर्माण सामग्री की आवश्यकता:"
+
+#: threades.py:179
+msgid " TOOLS: "
+msgstr "उपकरण:"
+
+#: threades.py:181
+msgid "You cannot upgrade the facility anymore, it has reached its maximum level"
+msgstr "तुम अब और उन्नयन की सुविधा नहीं है, यह अपने अधिकतम स्तर तक पहुँच गया है सकते हैं"
+
+#: threades.py:195
+msgid "You cannot build a facility when it has been temporarily stopped, try building it when it is resumed"
+msgstr "तुम जब यह अस्थायी रूप से रोक दिया गया है बनाने की सुविधा नहीं है, यह इमारत कोशिश कर सकते हैं जब इसे फिर से शुरू हो रहा है"
+
+#: threades.py:223
+msgid "You dont have enough resources to build the facility,  please try later"
+msgstr "तुम न पर्याप्त संसाधनों के लिए सुविधा का निर्माण, कृपया बाद में कोशिश है"
+
+#: threades.py:227
+msgid "You dont have enough manpower to build the facility, please try later"
+msgstr "तुम न पर्याप्त जनशक्ति की सुविधा का निर्माण, कृपया बाद में कोशिश है"
+
+#: threades.py:231
+msgid "You cannot setup more buildings of this facility, try setting up some other facility"
+msgstr "तुम नहीं सेटअप कर सकते हैं इस सुविधा का अधिक भवनों, कुछ अन्य सुविधा स्थापित करने की कोशिश"
+
+#: threades.py:332
+msgid "You cannot upgrade a facility when it has been temporarily stopped, try upgrading it when it is resumed"
+msgstr "तुम जब यह अस्थायी रूप से रोक दिया गया है उन्नयन की सुविधा नहीं है, यह उन्नयन की कोशिश कर सकते हैं जब इसे फिर से शुरू हो रहा है"
+
+#: threades.py:335
+msgid "You need to setup a facility first to upgrade it"
+msgstr "आप स्थापना के लिए इसे उन्नत पहली सुविधा की जरूरत है"
+
+#: threades.py:343
+msgid "You don't have enough resources to upgrade the facility please try later"
+msgstr "तुम पर्याप्त संसाधन हैं न सुविधा कृपया बाद में कोशिश उन्नयन करना"
+
+#: threades.py:347
+msgid "Facility has reached its maximum level you cant upgrade it now"
+msgstr "सुविधा अपने अधिकतम स्तर तुम खिचड़ी भाषा इसे अब उन्नत तक पहुँच गया है"
+
+#: threades.py:614
+msgid "You dont have enough money to buy this resource. Please change the quantity or try later"
+msgstr "तुम न पर्याप्त धन इस संसाधन खरीदना है. कृपया मात्रा में परिवर्तन या बाद में प्रयास करें"
+
+#: threades.py:617
+msgid "The market doesnot have enough quantity to sell this resource to village"
+msgstr "बाजार में पर्याप्त मात्रा में गांव के लिए इस संसाधन बेच नहीं है"
+
+#: threades.py:620
+msgid "The Village cannot store so much amount of resources you should try and use the money to buy some other resources "
+msgstr "ग्रामीण संसाधनों का इतना राशि तुम कोशिश करो और धन का इस्तेमाल किसी अन्य संसाधनों खरीदना चाहिए स्टोर नहीं कर सकते"
+
+#: threades.py:656
+msgid "The village doesnot have enough quantity to sell this resource to market"
+msgstr "गांव में पर्याप्त मात्रा में बाजार को यह संसाधन बेच नहीं है"
+

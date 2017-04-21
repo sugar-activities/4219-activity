@@ -1,0 +1,1107 @@
+# Spanish translations for FoodForce package.
+# Copyright (C) 2009 THE FoodForce'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the FoodForce package.
+# root <root@yogesh-laptop>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FoodForce 2.activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-01 01:25+0530\n"
+"PO-Revision-Date: 2009-11-10 13:58+0530\n"
+"Last-Translator: yogesh <yogesh2021@gmail.com>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: activity/activity.info:2
+#: activity.py:8
+msgid "FoodForce2"
+msgstr "FoodForce2"
+
+#: chat.py:86
+msgid "ENTER : To show whole chat"
+msgstr "ENTRAR: Para mostrar todo el chat"
+
+#: chat.py:86
+#: chat.py:266
+msgid "ESC : To skip chat"
+msgstr "CES: Para pasar de chat"
+
+#: chat.py:266
+msgid "ENTER : To move to next set of chats"
+msgstr "	ENTRAR: Para pasar al siguiente conjunto de chats"
+
+#: Foodforce2.py:88
+msgid "Message "
+msgstr "	Mensaje "
+
+#: Foodforce2.py:260
+msgid "Start New Game"
+msgstr "Guays"
+
+#: Foodforce2.py:263
+msgid "Resume Game"
+msgstr "Resume juego"
+
+#: Foodforce2.py:267
+msgid "Controls"
+msgstr "Controles"
+
+#: Foodforce2.py:268
+msgid "Exit"
+msgstr "Salir"
+
+#: Foodforce2.py:269
+msgid "Guide"
+msgstr "Gua"
+
+#: Foodforce2.py:270
+msgid "About Us"
+msgstr "Quines somos"
+
+#: Foodforce2.py:304
+msgid "     Guide"
+msgstr "     Gua"
+
+#: Foodforce2.py:317
+#: Foodforce2.py:483
+msgid "  Skip  "
+msgstr "	Saltar"
+
+#: Foodforce2.py:318
+msgid "  Next > "
+msgstr "Siguiente>"
+
+#: Foodforce2.py:319
+msgid "  < Prev  "
+msgstr "<Anterior "
+
+#: Foodforce2.py:395
+msgid "     About Us "
+msgstr "     Quines somos"
+
+#: Foodforce2.py:410
+msgid "  Close  "
+msgstr "Cerrar"
+
+#: Foodforce2.py:466
+msgid " FOODFORCE II : ESCAPING POVERTY  "
+msgstr "	FOODFORCE II: escapar de la pobreza "
+
+#: Foodforce2.py:571
+msgid "     Controls "
+msgstr "	Controles"
+
+#: Foodforce2.py:575
+msgid "  Setup Facility           :       s"
+msgstr "Facilidad de instalacin           :  s"
+
+#: Foodforce2.py:575
+msgid "  Upgrade Facility       :       u "
+msgstr "Mecanismo de actualizacin  :  U "
+
+#: Foodforce2.py:575
+msgid "Buy/Sell                    :       b"
+msgstr "Compra / Venta                        :  B"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen up       :       up arrow "
+msgstr "Desplcese hacia arriba threades.screen  :  flecha hacia arriba "
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen down   :       down arrow"
+msgstr "Threades.screen Desplcese hacia abajo  :  flecha"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen left      :       left arrow"
+msgstr "Threades.screen Desplcese a la izquierda :  flecha izquierda"
+
+#: Foodforce2.py:575
+msgid "  Scroll threades.screen right    :       right arrow "
+msgstr "Desplcese a la derecha threades.screen: flecha hacia la derecha"
+
+#: Foodforce2.py:584
+msgid "Setup Facility "
+msgstr "Facilidad de instalacin"
+
+#: Foodforce2.py:585
+#: gui_buttons.py:536
+msgid "Upgrade Facility "
+msgstr "	Mecanismo de actualizacin "
+
+#: Foodforce2.py:586
+msgid "Buy/Sell "
+msgstr "	Compra / Venta "
+
+#: Foodforce2.py:587
+msgid "Scroll Screen up "
+msgstr "Desplazamiento de la pantalla hasta"
+
+#: Foodforce2.py:588
+msgid "Scroll Screen down"
+msgstr "Desplazamiento de la pantalla hacia abajo"
+
+#: Foodforce2.py:589
+msgid "Scroll Screen left "
+msgstr "	Desplazamiento de la pantalla a la izquierda "
+
+#: Foodforce2.py:590
+msgid "Scroll Screen right "
+msgstr "	Desplazar a la derecha de pantalla "
+
+#: Foodforce2.py:591
+msgid "Focus "
+msgstr "Focus"
+
+#: Foodforce2.py:592
+msgid "De Focus "
+msgstr "	De Focus "
+
+#: Foodforce2.py:608
+msgid "up arrow "
+msgstr "flecha hacia arriba"
+
+#: Foodforce2.py:609
+msgid "down arrow "
+msgstr "FLECHA ABAJO"
+
+#: Foodforce2.py:610
+msgid "left arrrow "
+msgstr "izquierda arrrow"
+
+#: Foodforce2.py:611
+msgid "right arrow "
+msgstr "flecha hacia la derecha"
+
+#: Foodforce2.py:616
+msgid "  OK  "
+msgstr "OK"
+
+#: Foodforce2.py:753
+msgid "this will test localisation in the log"
+msgstr "esto pondrá a prueba su localización en el registro de"
+
+#: game_sharing.py:133
+msgid "The Resources have been traded"
+msgstr "Los recursos se han negociado"
+
+#: game_sharing.py:136
+msgid "The Resources have already been traded with someone"
+msgstr "Los recursos ya han sido comercializados con alguien"
+
+#: game_sharing.py:148
+#: game_sharing.py:162
+msgid "The Resources have been traded with "
+msgstr "Los recursos se han negociado con"
+
+#: game_sharing.py:360
+msgid "Trade "
+msgstr "Comercio"
+
+#: game_sharing.py:362
+msgid " wants to "
+msgstr "quiere"
+
+#: game_sharing.py:362
+msgid " units of "
+msgstr "unidades de"
+
+#: game_sharing.py:370
+msgid " Accept "
+msgstr "Aceptar"
+
+#: game_sharing.py:371
+msgid " Reject "
+msgstr "Rechazar"
+
+#: gui_buttons.py:276
+msgid "Set up a facility for your village "
+msgstr "Establecer un mecanismo para su pueblo"
+
+#: gui_buttons.py:295
+msgid "What would you like to set up? Choose a facility from the list and press the Set Up button."
+msgstr "Que te gustaria crear? Elija una instalacion de la lista y pulse el boton Configurar."
+
+#: gui_buttons.py:297
+msgid "Please select a Facility to see its status and Requirements"
+msgstr "Por favor, seleccione un servicio para ver su estado y requisitos"
+
+#: gui_buttons.py:316
+#: gui_buttons.py:349
+#: gui_buttons.py:565
+#: gui_buttons.py:610
+msgid "House"
+msgstr "Casa"
+
+#: gui_buttons.py:318
+#: gui_buttons.py:353
+#: gui_buttons.py:567
+#: gui_buttons.py:613
+msgid "Hospital"
+msgstr "Hospital"
+
+#: gui_buttons.py:320
+#: gui_buttons.py:361
+#: gui_buttons.py:569
+#: gui_buttons.py:619
+msgid "Workshop"
+msgstr "Taller"
+
+#: gui_buttons.py:322
+#: gui_buttons.py:357
+#: gui_buttons.py:571
+#: gui_buttons.py:616
+msgid "School"
+msgstr "Escuela"
+
+#: gui_buttons.py:324
+#: gui_buttons.py:365
+#: gui_buttons.py:573
+#: gui_buttons.py:622
+msgid "Farm"
+msgstr "Granja"
+
+#: gui_buttons.py:326
+#: gui_buttons.py:369
+#: gui_buttons.py:575
+#: gui_buttons.py:625
+msgid "Well"
+msgstr "Bien"
+
+#: gui_buttons.py:338
+#: gui_buttons.py:476
+msgid "Set Up"
+msgstr "Configurar"
+
+#: gui_buttons.py:350
+msgid "House: "
+msgstr "Casa:"
+
+#: gui_buttons.py:354
+msgid "Hospital: "
+msgstr "Hospital:"
+
+#: gui_buttons.py:358
+msgid "School: "
+msgstr "Escuela:"
+
+#: gui_buttons.py:362
+msgid "Workshop: "
+msgstr "Taller:"
+
+#: gui_buttons.py:366
+msgid "Farm: "
+msgstr "Granja:"
+
+#: gui_buttons.py:370
+msgid "Well: "
+msgstr "Bien:"
+
+#: gui_buttons.py:408
+msgid " Please select a Facility for building"
+msgstr "Por favor, seleccione una instalacion para la construccion"
+
+#: gui_buttons.py:410
+#: threades.py:285
+msgid "Facility has been build"
+msgstr "Instalacion ha sido la construccion"
+
+#: gui_buttons.py:428
+msgid "Setup Farm "
+msgstr "Instalacion de la granja"
+
+#: gui_buttons.py:446
+#: gui_buttons.py:746
+msgid "Rice"
+msgstr "Arroz"
+
+#: gui_buttons.py:447
+msgid ""
+"Fruit and \n"
+"Vegetables"
+msgstr ""
+"Frutas y \n"
+" Hortalizas"
+
+#: gui_buttons.py:448
+#: gui_buttons.py:748
+msgid "Beans"
+msgstr "Frijoles"
+
+#: gui_buttons.py:459
+msgid "Balance the bar chart to select the percentages of different food items you want to grow in your farm"
+msgstr "Balance de la grafica de barras para seleccionar los porcentajes de los diferentes alimentos que desee crecer en su granja de"
+
+#: gui_buttons.py:553
+msgid "Please select a Facility and press Upgrade button to upgrade."
+msgstr "Por favor seleccione una instalación y pulse el botón Actualizar para actualizar."
+
+#: gui_buttons.py:578
+msgid "Please select a Facility to see its next upgrade"
+msgstr "Por favor, seleccione una instalación para ver la próxima actualización"
+
+#: gui_buttons.py:598
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: gui_buttons.py:631
+msgid "Upgrades "
+msgstr "Actualizaciones"
+
+#: gui_buttons.py:652
+msgid " Please select a Facility for Upgrading"
+msgstr "Por favor, seleccione una instalación para actualizar"
+
+#: gui_buttons.py:654
+#: threades.py:371
+msgid "Facility has been upgraded"
+msgstr "Fondo se ha actualizado"
+
+#: gui_buttons.py:707
+msgid " Buy or Sell Resources "
+msgstr "Comprar o vender recursos"
+
+#: gui_buttons.py:724
+#: display_panel.py:196
+msgid "Resources"
+msgstr "Recursos"
+
+#: gui_buttons.py:725
+msgid "Village"
+msgstr "Aldea"
+
+#: gui_buttons.py:726
+#: gui_buttons.py:730
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: gui_buttons.py:727
+msgid "Price"
+msgstr "Precio"
+
+#: gui_buttons.py:729
+msgid "Market"
+msgstr "Mercado"
+
+#: gui_buttons.py:741
+msgid "Water"
+msgstr "Agua"
+
+#: gui_buttons.py:742
+msgid "Building Materials"
+msgstr "Materiales de construccion"
+
+#: gui_buttons.py:743
+msgid "Tools"
+msgstr "Herramientas"
+
+#: gui_buttons.py:744
+msgid "Books"
+msgstr "Libros"
+
+#: gui_buttons.py:745
+msgid "Medicines"
+msgstr "Medicamentos"
+
+#: gui_buttons.py:747
+msgid "Fruit & Vegatables"
+msgstr "Frutas y hortalizas de"
+
+#: gui_buttons.py:749
+msgid "Sugar"
+msgstr "Azucar"
+
+#: gui_buttons.py:750
+msgid "Salt"
+msgstr "Sal"
+
+#: gui_buttons.py:751
+msgid "Oil"
+msgstr "Petroleo"
+
+#: gui_buttons.py:766
+msgid "Trade with Peer Villages"
+msgstr "Comercio con los Pueblos de pares"
+
+#: gui_buttons.py:790
+msgid "Quantity "
+msgstr "Cantidad"
+
+#: gui_buttons.py:794
+#: gui_buttons.py:881
+msgid "Price "
+msgstr "Precio"
+
+#: gui_buttons.py:823
+msgid " Buy "
+msgstr "Comprar"
+
+#: gui_buttons.py:824
+msgid " Sell "
+msgstr "Vender"
+
+#: gui_buttons.py:825
+msgid "Close"
+msgstr "Cerrar"
+
+#: gui_buttons.py:854
+msgid "Welcome to the market of SHEYLAN, where you can trade resources. Select which item you would like to buy or sell on the left-hand column, enter the amount, and then choose buy or sell"
+msgstr "Bienvenido al mercado de Sheylan, donde puedes intercambiar recursos. Seleccione el elemento que desea comprar o vender en la columna de la izquierda, introduzca la cantidad, y luego elegir comprar o vender"
+
+#: gui_buttons.py:902
+#: gui_buttons.py:911
+#: gui_buttons.py:920
+#: gui_buttons.py:929
+#: gui_buttons.py:938
+#: gui_buttons.py:947
+#: gui_buttons.py:956
+#: gui_buttons.py:965
+#: gui_buttons.py:974
+#: gui_buttons.py:983
+#: gui_buttons.py:992
+#: threades.py:623
+msgid "The Village has bought the resource you demanded"
+msgstr "La aldea ha comprado el recurso que exigia"
+
+#: gui_buttons.py:999
+#: gui_buttons.py:1115
+msgid " Please select a Resource for Trading"
+msgstr "Por favor, seleccione un recurso para el Comercio"
+
+#: gui_buttons.py:1018
+#: gui_buttons.py:1027
+#: gui_buttons.py:1036
+#: gui_buttons.py:1045
+#: gui_buttons.py:1054
+#: gui_buttons.py:1063
+#: gui_buttons.py:1072
+#: gui_buttons.py:1081
+#: gui_buttons.py:1090
+#: gui_buttons.py:1099
+#: gui_buttons.py:1108
+#: threades.py:659
+#: threades.py:661
+msgid "The Village has sold the resource you demanded"
+msgstr "La aldea ha vendido el recurso que exigia"
+
+#: gui_buttons.py:1148
+msgid "Setup Facility"
+msgstr "Facilidad de instalación"
+
+#: gui_buttons.py:1149
+msgid "Upgrade Facility"
+msgstr "Mecanismo de actualizacion"
+
+#: gui_buttons.py:1150
+msgid "Buy/Sell Resources"
+msgstr "Compra / Venta Recursos"
+
+#: gui_buttons.py:1238
+msgid " Village doesn't have enough money to buy the resources"
+msgstr "La aldea no tiene suficiente dinero para comprar los recursos"
+
+#: gui_buttons.py:1244
+msgid " There are not enough resources in the village to trade"
+msgstr "No hay recursos suficientes en el pueblo para el comercio"
+
+#: level_change.py:187
+msgid "Loading New Level..."
+msgstr "Cargando Nueva Nivel ..."
+
+#: level_change.py:189
+msgid "Loading Level No:"
+msgstr "Nivelación de la carga no:"
+
+#: natural_calamities.py:79
+msgid " Your Village Sheylan has ben hit by an Earthquake"
+msgstr "Tu pueblo ha Sheylan ben afectado por un terremoto"
+
+#: proceduralFlow.py:549
+msgid "    Reward"
+msgstr "  Recompensa"
+
+#: proceduralFlow.py:620
+#: proceduralFlow.py:692
+msgid " FoodForce2"
+msgstr " FoodForce2"
+
+#: texts.py:3
+msgid "in texts.py"
+msgstr "en texts.py"
+
+#: texts.py:5
+msgid "Houses would be upgraded to brick and mortar from the mud and thatched roof houses."
+msgstr "Casas se actualiza a ladrillo y mortero de las casas de barro y techo de paja."
+
+#: texts.py:5
+msgid "Every house would be provided with an outhouse toilet."
+msgstr "Cada casa se dispone de un aseo retrete."
+
+#: texts.py:5
+msgid "Electricity connection have been provided to every house."
+msgstr "Conexión eléctrica se han proporcionado a cada casa."
+
+#: texts.py:6
+msgid "Hospitals have been upgraded to brick and mortar from the mud and thatched roof Hospitals."
+msgstr "Los hospitales se han actualizado a ladrillo y mortero de barro y los Hospitales de techo de paja."
+
+#: texts.py:6
+msgid "The Hospitals have been renovated and stuffed with investigatory equipments."
+msgstr "Los hospitales han sido renovadas y rellena con equipos de investigación."
+
+#: texts.py:6
+msgid "Hospitals have been provided electricity connection and have been provided with corrugated roof."
+msgstr "Los hospitales se han facilitado la conexión de electricidad y se han proporcionado con techo de lámina corrugada."
+
+#: texts.py:7
+msgid "Schools have been upgraded to brick and mortar from the mud and thatched roof school."
+msgstr "Las escuelas han sido acondicionadas para ladrillo y mortero de barro y de la escuela con techo de paja."
+
+#: texts.py:7
+msgid "School's capacity for number of children who can be educated in the school has increased with upgradation of furniture."
+msgstr "La capacidad de la Escuela para el número de niños que pueden ser educados en la escuela ha aumentado y la actualización de los muebles."
+
+#: texts.py:7
+msgid "Schools have been provided with electricity"
+msgstr "Las escuelas han sido siempre con la electricidad"
+
+#: texts.py:8
+msgid "Workshops have been upgraded to brick and mortar from the mud and thatched roof Workshop."
+msgstr "Los talleres han sido actualizados a ladrillo y mortero de barro y el Taller de techo de paja."
+
+#: texts.py:8
+msgid "Installation of chimney's and mechanised tools have been done."
+msgstr "De instalacion de la chimenea y herramientas mecanizadas se han hecho."
+
+#: texts.py:8
+msgid "Workshops would be provided outhouse for workers to rest and also have been electrified."
+msgstr "Los talleres se proporcionara dependencia de los trabajadores al descanso y tambien han sido electrificadas."
+
+#: texts.py:9
+msgid "The farms are going to be upgraded so that they would be increasing the production."
+msgstr "Las granjas van a ser actualizados de manera que seria el aumento de la produccion."
+
+#: texts.py:9
+msgid "The villagers are going to be taught about multiple crop farming so that they can grow many crops in the same farm."
+msgstr "Los habitantes del pueblo van a ser ensenados acerca de la agricultura de cultivos multiples de modo que puedan crecer muchos cultivos en la misma granja."
+
+#: texts.py:9
+msgid "The villagers are going to be taught about how to use fertilizers for the farms to increase their productivity."
+msgstr "Los habitantes del pueblo van a ser ensenados acerca de como utilizar fertilizantes para las granjas para aumentar su productividad."
+
+#: texts.py:10
+msgid "Upgrading a well increases the production of water"
+msgstr "La actualizacion de un bien aumenta la produccion de agua"
+
+#: texts.py:14
+msgid "Poverty is hunger"
+msgstr "La pobreza es el hambre"
+
+#: texts.py:14
+msgid "Hunger is Poverty  "
+msgstr "El hambre es la pobreza"
+
+#: texts.py:14
+msgid "WFP and SEETA aim to break this vicious cycle"
+msgstr "El PMA y SEETA como objetivo romper este círculo vicioso"
+
+#: texts.py:15
+msgid "When disaster strikes"
+msgstr "Cuando ocurre un desastre"
+
+#: texts.py:15
+msgid "WFP brings food to the hungry"
+msgstr "El PMA lleva alimentos a los hambrientos"
+
+#: texts.py:15
+msgid "SEETA brings spirit and knowledge to fightback"
+msgstr "SEETA trae el espíritu y el conocimiento para remontada"
+
+#: texts.py:16
+msgid "Aim : Manage crisis, rebuild lives and bring back peace, "
+msgstr "Objetivo: Administrar la crisis, la reconstruccion de vidas y la paz, la"
+
+#: texts.py:16
+msgid "prosperity and sustainability"
+msgstr "la prosperidad y la sostenibilidad"
+
+#: texts.py:17
+msgid "Join the Food Force "
+msgstr "unete a la Fuerza de la Alimentacion"
+
+#: texts.py:18
+msgid "Help your people become Physically, Socially, "
+msgstr "Ayuda a tu gente a ser física, social,"
+
+#: texts.py:18
+msgid "Mentally AND Spiritually healthy  "
+msgstr "Mental y espiritualmente sanos"
+
+#: texts.py:19
+msgid "Grow food"
+msgstr "Alimentos Crecer"
+
+#: texts.py:19
+msgid "Trade food"
+msgstr "Comercio de alimentos"
+
+#: texts.py:19
+msgid "Make your village Self-sufficient"
+msgstr "Haga su propia aldea, suficiente"
+
+#: texts.py:19
+msgid "Give your community a balanced diet"
+msgstr "Dele a su comunidad de una dieta equilibrada"
+
+#: texts.py:20
+msgid "You decide  "
+msgstr "Usted decide"
+
+#: texts.py:20
+msgid "What to Grow?"
+msgstr "Lo que para crecer?"
+
+#: texts.py:20
+msgid "What to Sell?  "
+msgstr "Que vender?"
+
+#: texts.py:20
+msgid "What to Buy?  "
+msgstr "Que comprar?"
+
+#: texts.py:20
+msgid "Where to Invest? "
+msgstr "Donde invertir?"
+
+#: texts.py:21
+msgid "Wise decisions for a sustainable growth "
+msgstr "Decisiones sensatas para un crecimiento sostenible"
+
+#: texts.py:21
+msgid "Breaking the vicious cycle of hunger and poverty"
+msgstr "Romper el circulo vicioso del hambre y la pobreza"
+
+#: texts.py:26
+msgid ""
+"Welcome to Gokul village. \n"
+"Join the Food Force and make your community healthy and village self-sufficient. \n"
+"\n"
+"You can \n"
+"-Grow food.\n"
+"-Buy food.\n"
+"-Trade goods.\n"
+"-Help meet the basic necessities of your community: \n"
+"  food, \n"
+"  water \n"
+"  and shelter. \n"
+"-Invest in health and education. "
+msgstr "¡Bienvenido al pueblo Gokul. unete a la Fuerza de la Alimentacion y hacer de su comunidad saludable y libre de aldea suficiente. Usted puede -Cultivar alimentos. -Compre alimentos. Bienes de Comercio. -Ayudar a satisfacer las necesidades basicas de su comunidad:   comida,    agua    y la vivienda. -Invertir en salud y educacion."
+
+#: texts.py:27
+msgid ""
+"Living  \n"
+"\n"
+"House \n"
+"One house per family- Help build housing for safe, secure and healthy living. \n"
+"\n"
+"Sanitation \n"
+"Help upgrade to an outhouse toilet per house. \n"
+"\n"
+"Farm \n"
+"Setup farms and help provide balanced diet to your community. \n"
+"\n"
+"Well \n"
+"Water is the key to survival and sustainence.\n"
+"Upgrade your well to get more water."
+msgstr "Vida Casa Una casa por la familia Ayude a construir viviendas para una vida segura y saludable. Saneamiento Ayudar a mejorar a un bano letrina por casa. Granja Instalación de las granjas y ayudar a proporcionar dieta equilibrada para su comunidad. Bien El agua es la clave para la supervivencia y sustainence. Actualice su bien para conseguir mas agua."
+
+#: texts.py:28
+msgid ""
+"Community \n"
+"\n"
+"Workshop \n"
+"Build materials and tools for construction of facilities. \n"
+"\n"
+"School \n"
+"Invest in education, invest in growth. Build schools. Use indicators to measure performance. \n"
+"\n"
+"Hospital \n"
+"Build hospitals for prevention and cure of diseases, provide vaccination to infants \n"
+"and organize events for community hygiene."
+msgstr "Comunidad Taller Generar materiales y herramientas para la construccion de las instalaciones. Escuela Invertir en educacion, invertir en el crecimiento. Construccion de escuelas. Utilizar indicadores para medir el desempeno. Hospital Construir hospitales para la prevencion y cura de enfermedades, ofrecer la vacunación a los ninos y organizar eventos para la higiene de la comunidad."
+
+#: texts.py:29
+msgid ""
+"Resources \n"
+"\n"
+" Food \n"
+" Water \n"
+" Medicine \n"
+" Books \n"
+" Tools \n"
+" Construction Materials "
+msgstr "Recursos   Comida   Agua   Medicina   Libros   Herramientas   Materiales de Construccion"
+
+#: texts.py:30
+msgid ""
+"Food \n"
+"\n"
+"Provide balanced diet to your people for a healthy, active and strong community.\n"
+"At Gokul, you grow, buy and eat \n"
+"\n"
+"Rice \n"
+"Rice is the staple food and major source of carbohydrates at Gokul. \n"
+"\n"
+"Fruit & Vegetables \n"
+"Source of vitamins and minerals. About a third of every villager's diet at Gokul is composed of fruits and vegetables. \n"
+"Grow them in farm, consume, and trade them (in kilograms) at the market."
+msgstr "Comida Proporcionar dieta equilibrada a su gente para una comunidad saludable, activa y fuerte. En Gokul, a crecer, comprar y comer Arroz El arroz es el alimento básico y principal fuente de hidratos de carbono en Gokul. Frutas y hortalizas Fuente de vitaminas y minerales. Alrededor de un tercio de la dieta de todos los aldeanos en Gokul se compone de frutas y verduras. Crecer en la granja, consumo y comercio de ellos (en kilogramos) en el mercado."
+
+#: texts.py:31
+msgid ""
+"Beans \n"
+"Source of proteins at Gokul. Grow them in farms, consume and trade them (in kilograms) at the market. \n"
+"\n"
+"Sugar, Salt and Oils \n"
+"They are added to your food items. Buy them at the market for your family. \n"
+"Sugar and oil help you provide carbohydrates and fats. Salt provides you minerals. \n"
+"Keep their quantities balanced."
+msgstr "Frijoles Fuente de proteinas en Gokul. Crecer en las granjas, consumo y comercio de ellos (en kilogramos) en el mercado. Azucar, sal y aceites Se anaden a sus productos alimenticios. Comprarlos en el mercado para su familia. De azucar y aceite de ayudar a proporcionar los carbohidratos y las grasas. Sal proporciona minerales. Mantenga sus cantidades equilibradas."
+
+#: texts.py:32
+msgid ""
+"Water \n"
+"Water is the key to survival and sustainence. \n"
+"Used for drinking, washing and raising crops. \n"
+"Maintain and improve the wells for a constant supply of clean water. \n"
+"\n"
+"Medicine \n"
+"Medicine for treatment and cure of diseases. \n"
+"\n"
+"Vaccination for children \n"
+"Ensure a steady supply of medicines for a safe and a healthy Gokul."
+msgstr "Agua El agua es la clave para la supervivencia y sustainence. Se utiliza para beber, lavar y levantar las cosechas. Mantener y mejorar los pozos para el suministro constante de agua limpia. Medicina Medicina para el tratamiento y la cura de enfermedades. La vacunacion de los ninos Asegurar un suministro constante de medicamentos para la caja fuerte y un Gokul saludable."
+
+#: texts.py:33
+msgid ""
+"Books \n"
+"Books are meant for young and old, keep them well my friend, their weight is gold. \n"
+"Maintain the existing books in school libraries, and order more whenever required. Books on nutrition, hygiene and agriculture will help the community to adapt best practices at Gokul. \n"
+"\n"
+"Tools \n"
+"Make or buy tools for maintaining fields and growing crops, and for \n"
+"construction of facilities. \n"
+"\n"
+"Building Materials \n"
+"Straw, wood, mud and bricks compose the building materials. \n"
+"Produce building materials at the workshop, or buy them at the market for construction of facilities. "
+msgstr "Libros Los libros están destinados a jóvenes y mayores, mantenerlos bien mi amigo, su peso es de oro. Mantener los libros existentes en las bibliotecas escolares, y pedir más cuando sea necesario. Libros sobre la nutrición, la higiene y la agricultura, ayudará a la comunidad para adaptar las mejores prácticas en Gokul. Herramientas De fabricar o comprar herramientas para el mantenimiento de campos y cultivos, y para construcción de instalaciones. Materiales de construcción De paja, madera, barro y ladrillos componen los materiales de construcción. Producción de materiales de construcción en el taller, o comprarlos en el mercado de la construcción de las instalaciones."
+
+#: texts.py:51
+msgid "Living is learning. Learning is living."
+msgstr "Vivir es aprender. Aprender es vivir."
+
+#: texts.py:51
+msgid "We define learning as a compound formed by three elements: "
+msgstr "Se define el aprendizaje como un compuesto formado por tres elementos:"
+
+#: texts.py:51
+msgid "Education - learning from ones physical, social and spiritual environment"
+msgstr "Educacion - Aprendizaje de las fisicas, el entorno social y espiritual,"
+
+#: texts.py:51
+msgid "Training - how to learn learning"
+msgstr "Formacion - a aprender de aprendizaje"
+
+#: texts.py:51
+msgid "Entertainment - learning should always be fun, Happy Learning"
+msgstr "Entretenimiento - aprendizaje siempre debe ser divertido, Happy Learning"
+
+#: texts.py:51
+msgid "Our vision is to engineer and deploy interactive platforms to enable and cherish learning."
+msgstr "Entretenimiento - aprendizaje siempre debe ser divertido, Happy Learning"
+
+#: texts.py:51
+msgid "Please write to us at discuss@seeta.in for opinions, feedback and ideas for "
+msgstr "Por favor escríbanos a discuss@seeta.in de las opiniones, comentarios e ideas para"
+
+#: texts.py:51
+msgid "development. "
+msgstr "desarrollo."
+
+#: texts.py:51
+msgid "We look forward to hearing from you."
+msgstr "Esperamos oir de usted."
+
+#: threades.py:121
+#: threades.py:140
+msgid "Facility "
+msgstr "Fondo"
+
+#: threades.py:121
+msgid " has been temporarily stopped due to insufficient resources to run the facility"
+msgstr "ha sido temporalmente suspendido debido a la insuficiencia de recursos para ejecutar la instalacion de"
+
+#: threades.py:140
+msgid " has been resumed"
+msgstr "Se ha reanudado la"
+
+#: threades.py:150
+msgid "Number :"
+msgstr "Numero:"
+
+#: threades.py:152
+msgid "   Level :"
+msgstr "Nivel:"
+
+#: threades.py:156
+msgid "Resources required to build :  BUILDING MATERIAL:"
+msgstr "Recursos necesarios para la construccion: Materiales de construccion:"
+
+#: threades.py:156
+msgid " TOOLS :"
+msgstr "HERRAMIENTAS:"
+
+#: threades.py:156
+msgid " WATER :"
+msgstr "AGUA:"
+
+#: threades.py:159
+msgid "Resources required to run : "
+msgstr "Los recursos necesarios para ejecutar"
+
+#: threades.py:163
+msgid "Manpower required : To build: "
+msgstr "Mano de obra necesaria: Para construir:"
+
+#: threades.py:163
+msgid " To run: "
+msgstr "Para ejecutar:"
+
+#: threades.py:179
+msgid "Resources required to upgrade : BUILDING MATERIAL: "
+msgstr "Recursos necesarios para la actualizacion: Materiales de construccion:"
+
+#: threades.py:179
+msgid " TOOLS: "
+msgstr "	HERRAMIENTAS:"
+
+#: threades.py:181
+msgid "You cannot upgrade the facility anymore, it has reached its maximum level"
+msgstr "No se puede actualizar la instalacion de mas, ha alcanzado su nivel maximo"
+
+#: threades.py:195
+msgid "You cannot build a facility when it has been temporarily stopped, try building it when it is resumed"
+msgstr "No se puede construir una instalacion cuando se ha detenido temporalmente, intenta construir cuando se reanudo"
+
+#: threades.py:223
+msgid "You dont have enough resources to build the facility,  please try later"
+msgstr "No tienes suficientes recursos para construir la instalacion, por favor intente mas tarde"
+
+#: threades.py:227
+msgid "You dont have enough manpower to build the facility, please try later"
+msgstr "Usted no tiene suficiente mano de obra para construir las instalaciones, por favor intente mas tarde"
+
+#: threades.py:231
+msgid "You cannot setup more buildings of this facility, try setting up some other facility"
+msgstr "Usted no puede configuración de los edificios mas de esta facilidad, trate de establecer algun otro centro"
+
+#: threades.py:332
+msgid "You cannot upgrade a facility when it has been temporarily stopped, try upgrading it when it is resumed"
+msgstr "No puede actualizar una instalacion cuando se ha detenido temporalmente, prueba a actualizar cuando se reanudo"
+
+#: threades.py:335
+msgid "You need to setup a facility first to upgrade it"
+msgstr "Necesita configurar un centro de primera para actualizarlo"
+
+#: threades.py:343
+msgid "You don't have enough resources to upgrade the facility please try later"
+msgstr "Usted no tiene suficientes recursos para mejorar las instalaciones por favor intente mas tarde"
+
+#: threades.py:347
+msgid "Facility has reached its maximum level you cant upgrade it now"
+msgstr "Fondo ha alcanzado su maximo nivel no puedes actualizar ahora"
+
+#: threades.py:614
+msgid "You dont have enough money to buy this resource. Please change the quantity or try later"
+msgstr "No tienes suficiente dinero para comprar este recurso. Por favor, cambie la cantidad o intente mas tarde"
+
+#: threades.py:617
+msgid "The market doesnot have enough quantity to sell this resource to village"
+msgstr "El mercado se han doesnot cantidad suficiente para vender este recurso a la aldea"
+
+#: threades.py:620
+msgid "The Village cannot store so much amount of resources you should try and use the money to buy some other resources "
+msgstr "La aldea no puede almacenar tanta cantidad de recursos que debe tratar de utilizar el dinero para comprar algunos otros recursos"
+
+#: threades.py:656
+msgid "The village doesnot have enough quantity to sell this resource to market"
+msgstr "El doesnot aldea tienen la cantidad suficiente para vender este recurso a los mercados"
+
+#: display_panel.py:100
+msgid "Indicators"
+msgstr "Indicadores"
+
+#: display_panel.py:113
+msgid " Housing"
+msgstr "Vivienda"
+
+#: display_panel.py:113
+msgid " Nutrition"
+msgstr "Nutricion"
+
+#: display_panel.py:113
+msgid " Health"
+msgstr "Salud"
+
+#: display_panel.py:113
+msgid " Education"
+msgstr "Educacipon"
+
+#: display_panel.py:113
+msgid " Training"
+msgstr "Entrenamiento "
+
+#: display_panel.py:219
+msgid "Money -:"
+msgstr "Dinero -:"
+
+#: display_panel.py:220
+msgid "Time Elapsed -:"
+msgstr "Tiempo transcurrido -:"
+
+#: display_panel.py:220
+msgid "Level Just Started"
+msgstr "Nivel Just Started"
+
+#: display_panel.py:223
+msgid " Water"
+msgstr "Agua"
+
+#: display_panel.py:223
+msgid " Building Materials"
+msgstr "Materiales de construccion"
+
+#: display_panel.py:223
+msgid " Tools"
+msgstr "Herramientas"
+
+#: display_panel.py:223
+msgid " Medicines"
+msgstr "Medicamentos"
+
+#: display_panel.py:223
+msgid " Books"
+msgstr "Libros"
+
+#: display_panel.py:230
+msgid " Rice"
+msgstr "Arroz"
+
+#: display_panel.py:230
+msgid " Fruit & Vegatables"
+msgstr "Frutas y hortalizas de"
+
+#: display_panel.py:230
+msgid " Beans"
+msgstr "Frijoles"
+
+#: display_panel.py:230
+msgid " Sugar"
+msgstr "Azucar"
+
+#: display_panel.py:230
+msgid " Salt"
+msgstr "Sal"
+
+#: display_panel.py:230
+msgid " Oil"
+msgstr "Petroleo"
+
+#: display_panel.py:256
+#: display_panel.py:258
+msgid "Money -:   "
+msgstr "Dinero -:"
+
+#: display_panel.py:264
+msgid "Time Elapsed -:   "
+msgstr "Tiempo transcurrido -:"
+
+#: display_panel.py:264
+msgid "Years: "
+msgstr "Anos:"
+
+#: display_panel.py:264
+msgid "  Months: "
+msgstr "Meses:"
+
+#: display_panel.py:264
+msgid "  Days: "
+msgstr "Dias:"
+
+#: display_panel.py:307
+msgid "  Manpower Distribution"
+msgstr "Distribucion de Recursos Humanos"
+
+#: display_panel.py:327
+msgid " Total Population"
+msgstr "Poblacion Total"
+
+#: display_panel.py:327
+msgid " Sheltered People"
+msgstr "Personas albergadas"
+
+#: display_panel.py:327
+msgid " Educated People"
+msgstr "Las personas educadas"
+
+#: display_panel.py:327
+msgid " Healthy People"
+msgstr "Healthy People"
+
+#: display_panel.py:327
+msgid " People Fed"
+msgstr "La gente de la Fed"
+
+#: display_panel.py:327
+msgid " People Employed"
+msgstr "Las personas empleadas"
+
+#: display_panel.py:381
+msgid "Houses "
+msgstr "Casas"
+
+#: display_panel.py:381
+msgid "Schools "
+msgstr "Escuelas"
+
+#: display_panel.py:381
+msgid "Hospitals "
+msgstr "	Hospitales"
+
+#: display_panel.py:381
+msgid "Workshops "
+msgstr "Talleres"
+
+#: display_panel.py:381
+msgid "Farms "
+msgstr "Fincas"
+
+#: display_panel.py:381
+msgid "Wells "
+msgstr "Wells"
+
+#: display_panel.py:382
+msgid "Number: "
+msgstr "Numero:"
+
+#: display_panel.py:388
+#: display_panel.py:398
+#: display_panel.py:408
+#: display_panel.py:409
+msgid " Level: "
+msgstr "Nivel:"
+
